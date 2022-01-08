@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-08T14:02:27.481Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="v8P6JusPQL6MaXPt5F3G" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-08T14:04:18.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="UeUX18bTJiCKvVPYp2mB" version="16.2.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2889" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-23" value="申请是否通过" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=-0.2;exitY=0.263;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-14">
-          <mxGeometry x="-0.0325" y="-11" relative="1" as="geometry">
+          <mxGeometry x="0.0096" relative="1" as="geometry">
             <mxPoint y="710" as="sourcePoint" />
             <mxPoint x="-285" y="641" as="targetPoint" />
             <Array as="points" />
@@ -36,23 +36,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-25" value="审核" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.9;entryY=0.176;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-14" target="8me5k0RuEljqpgm1LnXD-14">
-          <mxGeometry x="-0.75" y="10" width="80" relative="1" as="geometry">
+          <mxGeometry x="-0.604" width="80" relative="1" as="geometry">
             <mxPoint x="190" y="560" as="sourcePoint" />
             <mxPoint x="150" y="600" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="160" y="560" />
-              <mxPoint x="160" y="600" />
+              <mxPoint x="120" y="560" />
+              <mxPoint x="120" y="601" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-26" value="分配矿场" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1.1;exitY=0.346;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.1;entryY=0.437;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-14" target="8me5k0RuEljqpgm1LnXD-14">
-          <mxGeometry x="-0.6211" y="10" width="80" relative="1" as="geometry">
+          <mxGeometry x="-0.61" width="80" relative="1" as="geometry">
             <mxPoint x="49" y="720" as="sourcePoint" />
             <mxPoint x="150" y="820" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="160" y="679" />
-              <mxPoint x="160" y="720" />
+              <mxPoint x="120" y="679" />
+              <mxPoint x="120" y="721" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -66,23 +66,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-34" value="生成物料单" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.9;exitY=0.103;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-29">
-          <mxGeometry x="-0.6349" y="12" width="80" relative="1" as="geometry">
+          <mxGeometry x="-0.5899" width="80" relative="1" as="geometry">
             <mxPoint x="310" y="842" as="sourcePoint" />
             <mxPoint x="279" y="880" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="400" y="842" />
-              <mxPoint x="400" y="880" />
+              <mxPoint x="360" y="842" />
+              <mxPoint x="360" y="880" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-40" value="安排车辆司机" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.9;exitY=0.403;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-29">
-          <mxGeometry x="-0.6349" y="12" width="80" relative="1" as="geometry">
+          <mxGeometry x="-0.5899" y="1" width="80" relative="1" as="geometry">
             <mxPoint x="300" y="920" as="sourcePoint" />
             <mxPoint x="281" y="1000" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="400" y="960" />
-              <mxPoint x="400" y="1000" />
+              <mxPoint x="360" y="960" />
+              <mxPoint x="360" y="1000" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -104,12 +104,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-48" value="接单" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=1.2;entryY=0.395;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.9;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-44" target="8me5k0RuEljqpgm1LnXD-44">
-          <mxGeometry x="-0.6349" y="12" width="80" relative="1" as="geometry">
+          <mxGeometry x="-0.6517" width="80" relative="1" as="geometry">
             <mxPoint x="530" y="1140" as="sourcePoint" />
             <mxPoint x="520" y="1159.78" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="641" y="1120" />
-              <mxPoint x="641" y="1159" />
+              <mxPoint x="600" y="1120" />
+              <mxPoint x="600" y="1159" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -123,12 +123,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-50" value="归档" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=1.2;entryY=0.395;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.9;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry x="-0.6154" y="10" width="80" relative="1" as="geometry">
+          <mxGeometry x="-0.5918" width="80" relative="1" as="geometry">
             <mxPoint x="-280" y="1360" as="sourcePoint" />
             <mxPoint x="-277" y="1399" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-168" y="1360" />
-              <mxPoint x="-168" y="1399" />
+              <mxPoint x="-200" y="1360" />
+              <mxPoint x="-200" y="1399" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
