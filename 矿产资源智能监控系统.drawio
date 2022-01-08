@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-01-08T14:22:12.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="G4LWNDwmsDeNTPni_xyp" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-08T14:23:49.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="XL73xVexlaTWhv67ZVMv" version="16.2.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2889" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8me5k0RuEljqpgm1LnXD-51" value="&lt;span&gt;项目管理员&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-335" y="400" width="100" height="1150" as="geometry" />
+        </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-55" value="&lt;span&gt;运营管理员&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-15" y="400" width="100" height="1150" as="geometry" />
         </mxCell>
@@ -41,7 +44,7 @@
           <mxGeometry x="510" y="320" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="520" width="10" height="920" as="geometry" />
+          <mxGeometry x="-290" y="520" width="10" height="600" as="geometry" />
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="30" y="520" width="10" height="280" as="geometry" />
@@ -71,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-26" value="指派司机" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1.4;exitY=0.568;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-14" target="8me5k0RuEljqpgm1LnXD-44">
-          <mxGeometry x="-0.61" width="80" relative="1" as="geometry">
+          <mxGeometry x="-0.8491" y="-1" width="80" relative="1" as="geometry">
             <mxPoint x="49" y="720" as="sourcePoint" />
             <mxPoint x="150" y="820" as="targetPoint" />
             <Array as="points">
@@ -81,7 +84,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-44" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="520" y="680" width="10" height="600" as="geometry" />
+          <mxGeometry x="520" y="680" width="10" height="320" as="geometry" />
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-46" value="1、车辆称重&lt;br&gt;2、出库，扫码核验" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;align=left;" edge="1" source="8me5k0RuEljqpgm1LnXD-60" parent="1" target="8me5k0RuEljqpgm1LnXD-29">
           <mxGeometry x="0.3913" relative="1" as="geometry">
@@ -93,7 +96,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8me5k0RuEljqpgm1LnXD-48" value="接单" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1.2;exitY=0.063;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-44" target="8me5k0RuEljqpgm1LnXD-44">
+        <mxCell id="8me5k0RuEljqpgm1LnXD-48" value="接单" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-44" target="8me5k0RuEljqpgm1LnXD-44">
           <mxGeometry x="-0.6517" width="80" relative="1" as="geometry">
             <mxPoint x="530" y="1140" as="sourcePoint" />
             <mxPoint x="520" y="1159.78" as="targetPoint" />
@@ -104,7 +107,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8me5k0RuEljqpgm1LnXD-49" value="1、车辆称重&lt;br&gt;2、入库，扫码核验" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;align=left;exitX=-0.1;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-44" target="8me5k0RuEljqpgm1LnXD-11">
+        <mxCell id="8me5k0RuEljqpgm1LnXD-49" value="1、车辆称重&lt;br&gt;2、入库，扫码核验" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;align=left;entryX=1.1;entryY=0.798;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-44" target="8me5k0RuEljqpgm1LnXD-11">
           <mxGeometry x="0.3913" relative="1" as="geometry">
             <mxPoint x="290" y="1250" as="targetPoint" />
             <mxPoint x="500" y="1420" as="sourcePoint" />
@@ -114,17 +117,14 @@
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-50" value="归档" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=1.2;entryY=0.395;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.9;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="-0.5918" width="80" relative="1" as="geometry">
-            <mxPoint x="-280" y="1360" as="sourcePoint" />
-            <mxPoint x="-277" y="1399" as="targetPoint" />
+            <mxPoint x="-280" y="1040" as="sourcePoint" />
+            <mxPoint x="-277" y="1079" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-200" y="1360" />
-              <mxPoint x="-200" y="1399" />
+              <mxPoint x="-200" y="1040" />
+              <mxPoint x="-200" y="1079" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="8me5k0RuEljqpgm1LnXD-51" value="&lt;span&gt;项目管理员&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-335" y="400" width="100" height="1150" as="geometry" />
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-66" value="指派矿场" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.9;exitY=0.403;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.2;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="8me5k0RuEljqpgm1LnXD-29">
           <mxGeometry x="-0.5899" y="1" width="80" relative="1" as="geometry">
