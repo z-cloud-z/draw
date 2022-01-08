@@ -1,34 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2022-01-08T13:00:14.507Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="JTjDWxJMN9WRzOsazner" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-08T13:27:24.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="t-Zp9YjE5ffpwNLqDYFV" version="16.2.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2889" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8me5k0RuEljqpgm1LnXD-1" value="运营管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="380" width="30" height="60" as="geometry" />
+          <mxGeometry x="20" y="380" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-2" value="矿场管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="380" width="30" height="60" as="geometry" />
+          <mxGeometry x="414" y="380" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-5" value="项目管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="380" width="30" height="60" as="geometry" />
+          <mxGeometry x="-300" y="380" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-6" value="司机" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="360" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="520" width="10" height="430" as="geometry" />
+          <mxGeometry x="-290" y="520" width="10" height="840" as="geometry" />
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="30" y="520" width="10" height="80" as="geometry" />
+          <mxGeometry x="30" y="520" width="10" height="460" as="geometry" />
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-15" value="提交砂石需求申请" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="8me5k0RuEljqpgm1LnXD-14" parent="1" source="8me5k0RuEljqpgm1LnXD-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-40" y="520" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8me5k0RuEljqpgm1LnXD-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="320" y="520" width="10" height="80" as="geometry" />
+        <mxCell id="8me5k0RuEljqpgm1LnXD-23" value="申请是否通过" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.1;exitY=0.352;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-14" target="8me5k0RuEljqpgm1LnXD-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="710" as="sourcePoint" />
+            <mxPoint x="-80" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-110" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8me5k0RuEljqpgm1LnXD-25" value="审核" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-14" target="8me5k0RuEljqpgm1LnXD-14">
+          <mxGeometry x="-0.75" y="10" width="80" relative="1" as="geometry">
+            <mxPoint x="190" y="560" as="sourcePoint" />
+            <mxPoint x="150" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="560" />
+              <mxPoint x="160" y="600" />
+              <mxPoint x="160" y="640" />
+              <mxPoint x="90" y="640" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8me5k0RuEljqpgm1LnXD-26" value="分配矿场" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.9;entryY=0.609;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.9;exitY=0.435;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-14" target="8me5k0RuEljqpgm1LnXD-14">
+          <mxGeometry x="-0.6211" y="10" width="80" relative="1" as="geometry">
+            <mxPoint x="49" y="720" as="sourcePoint" />
+            <mxPoint x="90" y="961.5999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="720" />
+              <mxPoint x="160" y="800" />
+              <mxPoint x="120" y="800" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8me5k0RuEljqpgm1LnXD-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="404" y="850" width="10" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="8me5k0RuEljqpgm1LnXD-30" value="通知出库" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;exitX=1.1;exitY=0.715;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="8me5k0RuEljqpgm1LnXD-29" parent="1" source="8me5k0RuEljqpgm1LnXD-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="850" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8me5k0RuEljqpgm1LnXD-34" value="审核" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1.1;exitY=0.15;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.1;entryY=0.361;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-29" target="8me5k0RuEljqpgm1LnXD-29">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="419" y="890" as="sourcePoint" />
+            <mxPoint x="419" y="950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="569" y="890" />
+              <mxPoint x="569" y="950" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
