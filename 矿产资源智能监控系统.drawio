@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-08T13:39:57.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="BgjRbyw7w7C-J5aHfuun" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-08T13:43:22.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="rOLGQlZoPznswD-6W0_K" version="16.2.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2889" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,14 +58,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="270" y="800" width="10" height="460" as="geometry" />
+          <mxGeometry x="270" y="800" width="10" height="470" as="geometry" />
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-30" value="通知出库" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="8me5k0RuEljqpgm1LnXD-29" parent="1" source="8me5k0RuEljqpgm1LnXD-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="850" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8me5k0RuEljqpgm1LnXD-34" value="填写出库清单" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1;exitY=0.091;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.9;entryY=0.174;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-29" target="8me5k0RuEljqpgm1LnXD-29">
+        <mxCell id="8me5k0RuEljqpgm1LnXD-34" value="生成物料单" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1;exitY=0.091;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.9;entryY=0.174;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-29" target="8me5k0RuEljqpgm1LnXD-29">
           <mxGeometry x="-0.6349" y="12" width="80" relative="1" as="geometry">
             <mxPoint x="419" y="890" as="sourcePoint" />
             <mxPoint x="390" y="1000" as="targetPoint" />
@@ -76,15 +76,28 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8me5k0RuEljqpgm1LnXD-40" value="安排车辆司机" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.9;exitY=0.439;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-29" target="8me5k0RuEljqpgm1LnXD-29">
+        <mxCell id="8me5k0RuEljqpgm1LnXD-40" value="安排车辆司机" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1.3;exitY=0.343;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-29" target="8me5k0RuEljqpgm1LnXD-29">
           <mxGeometry x="-0.6349" y="12" width="80" relative="1" as="geometry">
             <mxPoint x="420" y="1090" as="sourcePoint" />
             <mxPoint x="369" y="1166" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="1082" />
-              <mxPoint x="480" y="1160" />
+              <mxPoint x="400" y="960" />
+              <mxPoint x="400" y="1000" />
             </Array>
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8me5k0RuEljqpgm1LnXD-44" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1080" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8me5k0RuEljqpgm1LnXD-45" value="司机接单" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;exitX=1.2;exitY=0.594;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="8me5k0RuEljqpgm1LnXD-44" parent="1" source="8me5k0RuEljqpgm1LnXD-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="1020" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8me5k0RuEljqpgm1LnXD-46" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="8me5k0RuEljqpgm1LnXD-44" parent="1" target="8me5k0RuEljqpgm1LnXD-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="1096" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
