@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-01-08T14:21:21.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="coLyidq8GDJwJMG51ix5" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-08T14:22:12.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="G4LWNDwmsDeNTPni_xyp" version="16.2.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2889" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8me5k0RuEljqpgm1LnXD-55" value="&lt;span&gt;运营管理员&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="400" width="100" height="1150" as="geometry" />
+        </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-60" value="&lt;span&gt;司机&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="475" y="400" width="100" height="1150" as="geometry" />
         </mxCell>
@@ -41,14 +44,14 @@
           <mxGeometry x="-290" y="520" width="10" height="920" as="geometry" />
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="30" y="520" width="10" height="460" as="geometry" />
+          <mxGeometry x="30" y="520" width="10" height="280" as="geometry" />
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-15" value="提交砂石需求申请" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="8me5k0RuEljqpgm1LnXD-14" parent="1" source="8me5k0RuEljqpgm1LnXD-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-40" y="520" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8me5k0RuEljqpgm1LnXD-23" value="申请是否通过" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=-0.2;exitY=0.263;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-14">
+        <mxCell id="8me5k0RuEljqpgm1LnXD-23" value="申请是否通过" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.1;exitY=0.432;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-14">
           <mxGeometry x="0.0096" relative="1" as="geometry">
             <mxPoint y="710" as="sourcePoint" />
             <mxPoint x="-285" y="641" as="targetPoint" />
@@ -56,7 +59,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8me5k0RuEljqpgm1LnXD-25" value="审核" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.9;entryY=0.176;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-14" target="8me5k0RuEljqpgm1LnXD-14">
+        <mxCell id="8me5k0RuEljqpgm1LnXD-25" value="审核" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=1.1;entryY=0.289;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-14" target="8me5k0RuEljqpgm1LnXD-14">
           <mxGeometry x="-0.604" width="80" relative="1" as="geometry">
             <mxPoint x="190" y="560" as="sourcePoint" />
             <mxPoint x="150" y="600" as="targetPoint" />
@@ -67,7 +70,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8me5k0RuEljqpgm1LnXD-26" value="指派司机" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1.1;exitY=0.346;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-14" target="8me5k0RuEljqpgm1LnXD-44">
+        <mxCell id="8me5k0RuEljqpgm1LnXD-26" value="指派司机" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1.4;exitY=0.568;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-14" target="8me5k0RuEljqpgm1LnXD-44">
           <mxGeometry x="-0.61" width="80" relative="1" as="geometry">
             <mxPoint x="49" y="720" as="sourcePoint" />
             <mxPoint x="150" y="820" as="targetPoint" />
@@ -122,9 +125,6 @@
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-51" value="&lt;span&gt;项目管理员&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-335" y="400" width="100" height="1150" as="geometry" />
-        </mxCell>
-        <mxCell id="8me5k0RuEljqpgm1LnXD-55" value="&lt;span&gt;运营管理员&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="400" width="100" height="1150" as="geometry" />
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-66" value="指派矿场" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.9;exitY=0.403;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.2;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="8me5k0RuEljqpgm1LnXD-29">
           <mxGeometry x="-0.5899" y="1" width="80" relative="1" as="geometry">
