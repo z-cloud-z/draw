@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T05:58:33.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ZLyJDAUKGopQit0vZtA7" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T06:00:32.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="UsQCHnAT2OaVf1vKpWof" version="16.2.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,9 +117,9 @@
             <mxPoint x="774.5" y="1128.2800000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WrnpuX-ZasRi4O7_Z498-13" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250) ; font-size: 12px&quot;&gt;1、同意办结；&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;2、评价；&lt;/div&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WrnpuX-ZasRi4O7_Z498-8">
+        <mxCell id="WrnpuX-ZasRi4O7_Z498-13" value="&lt;span&gt;局分管领导&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250) ; font-size: 12px&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;1、同意办结；&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;2、评价；&lt;/div&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WrnpuX-ZasRi4O7_Z498-8">
           <mxGeometry x="0.1515" y="-2" relative="1" as="geometry">
-            <mxPoint x="-118" y="-20" as="offset" />
+            <mxPoint x="-122" y="-27" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WrnpuX-ZasRi4O7_Z498-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.1;entryY=0.902;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="8me5k0RuEljqpgm1LnXD-14">
@@ -130,7 +130,7 @@
         </mxCell>
         <mxCell id="WrnpuX-ZasRi4O7_Z498-12" value="局分管领导&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;1、不同意办结并退回；&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;2、填写退回理由；&lt;br&gt;系统&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;1、提醒具体负责人重新填报" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WrnpuX-ZasRi4O7_Z498-11">
           <mxGeometry x="0.5809" y="-1" relative="1" as="geometry">
-            <mxPoint x="-36" y="-40" as="offset" />
+            <mxPoint x="40" y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
