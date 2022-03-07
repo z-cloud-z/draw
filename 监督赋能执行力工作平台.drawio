@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T05:00:02.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="YVK2M3HJPraC8L61cLfp" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T05:00:17.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="GFfi2r9lJvu1w0mitMFI" version="16.2.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,27 +25,6 @@
         <mxCell id="8me5k0RuEljqpgm1LnXD-15" value="&lt;div&gt;1、创建交办任务；&lt;/div&gt;2、指派责任科室；" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;align=left;" parent="1" source="8me5k0RuEljqpgm1LnXD-11" target="8me5k0RuEljqpgm1LnXD-14" edge="1">
           <mxGeometry x="-0.6774" relative="1" as="geometry">
             <mxPoint x="-40" y="520" as="sourcePoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8me5k0RuEljqpgm1LnXD-25" value="审核" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=1.1;entryY=0.289;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8me5k0RuEljqpgm1LnXD-14" target="8me5k0RuEljqpgm1LnXD-14" edge="1">
-          <mxGeometry x="-0.604" width="80" relative="1" as="geometry">
-            <mxPoint x="190" y="560" as="sourcePoint" />
-            <mxPoint x="150" y="600" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="120" y="560" />
-              <mxPoint x="120" y="601" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8me5k0RuEljqpgm1LnXD-26" value="指派司机" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1.4;exitY=0.568;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8me5k0RuEljqpgm1LnXD-14" target="8me5k0RuEljqpgm1LnXD-44" edge="1">
-          <mxGeometry x="-0.8491" y="-1" width="80" relative="1" as="geometry">
-            <mxPoint x="49" y="720" as="sourcePoint" />
-            <mxPoint x="150" y="820" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="120" y="679" />
-            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -88,16 +67,6 @@
             <Array as="points">
               <mxPoint x="-200" y="1040" />
               <mxPoint x="-200" y="1079" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8me5k0RuEljqpgm1LnXD-66" value="指派矿场" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.9;exitY=0.403;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.2;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="8me5k0RuEljqpgm1LnXD-29" edge="1">
-          <mxGeometry x="-0.5899" y="1" width="80" relative="1" as="geometry">
-            <mxPoint x="40" y="761.1999999999998" as="sourcePoint" />
-            <mxPoint x="42" y="800" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="121" y="760" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
