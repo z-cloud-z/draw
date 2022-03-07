@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T03:56:54.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="rv1Kf_uRhz9p8X1T5mrD" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T04:59:56.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ZX605RdPiTBU317ZoaKB" version="16.2.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,9 +22,10 @@
         <mxCell id="8me5k0RuEljqpgm1LnXD-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="30" y="520" width="10" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="8me5k0RuEljqpgm1LnXD-15" value="创建交办任务" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="1" source="8me5k0RuEljqpgm1LnXD-11" target="8me5k0RuEljqpgm1LnXD-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="8me5k0RuEljqpgm1LnXD-15" value="&lt;div&gt;1、创建交办任务；&lt;/div&gt;2、指派责任科室；" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;align=left;" parent="1" source="8me5k0RuEljqpgm1LnXD-11" target="8me5k0RuEljqpgm1LnXD-14" edge="1">
+          <mxGeometry x="-0.6774" relative="1" as="geometry">
             <mxPoint x="-40" y="520" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-23" value="申请不通过" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.1;exitY=0.432;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="8me5k0RuEljqpgm1LnXD-14" edge="1">
@@ -115,7 +116,7 @@
         <mxCell id="8me5k0RuEljqpgm1LnXD-55" value="&lt;span&gt;责任科室/单位&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-15" y="400" width="100" height="760" as="geometry" />
         </mxCell>
-        <mxCell id="8me5k0RuEljqpgm1LnXD-59" value="&lt;span&gt;矿场管理员&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="8me5k0RuEljqpgm1LnXD-59" value="&lt;span&gt;分管领导&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="225" y="400" width="100" height="760" as="geometry" />
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="8me5k0RuEljqpgm1LnXD-59" vertex="1">
@@ -133,8 +134,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8me5k0RuEljqpgm1LnXD-60" value="&lt;span&gt;司机&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="8me5k0RuEljqpgm1LnXD-60" value="局主要领导" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="475" y="400" width="100" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="-VlPYzEYmDWwcu4X4Bcw-1" value="局党组成员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="400" width="100" height="760" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
