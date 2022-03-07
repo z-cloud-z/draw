@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T07:38:42.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="sedMe-xGa3zwxgN-Avh_" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T07:42:02.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="3mn-cmLvuYinWqytlFqZ" version="16.2.4" type="github">
   <diagram id="zva_Izvk_Pw7jRFiOZ6U" name="第 1 页">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,11 +56,43 @@
         <mxCell id="wEzHK_rQ6-qJ8AS3pq5E-16" value="&lt;font style=&quot;font-size: 6px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;责任科室单&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;位负责人审核&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="697" y="295" width="130" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="wEzHK_rQ6-qJ8AS3pq5E-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="wEzHK_rQ6-qJ8AS3pq5E-20" target="wEzHK_rQ6-qJ8AS3pq5E-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wEzHK_rQ6-qJ8AS3pq5E-20" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;局分管领导审阅&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="280" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wEzHK_rQ6-qJ8AS3pq5E-23" value="同意并报局分管领导审阅" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="840" y="325" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="wEzHK_rQ6-qJ8AS3pq5E-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="wEzHK_rQ6-qJ8AS3pq5E-25" target="wEzHK_rQ6-qJ8AS3pq5E-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wEzHK_rQ6-qJ8AS3pq5E-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="wEzHK_rQ6-qJ8AS3pq5E-25" target="wEzHK_rQ6-qJ8AS3pq5E-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1270" y="510" />
+              <mxPoint x="534" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wEzHK_rQ6-qJ8AS3pq5E-25" value="是否同意办结" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="295" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wEzHK_rQ6-qJ8AS3pq5E-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="wEzHK_rQ6-qJ8AS3pq5E-27" target="wEzHK_rQ6-qJ8AS3pq5E-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wEzHK_rQ6-qJ8AS3pq5E-27" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wEzHK_rQ6-qJ8AS3pq5E-29" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wEzHK_rQ6-qJ8AS3pq5E-33" value="不同意办结并退回" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="815" y="490" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wEzHK_rQ6-qJ8AS3pq5E-34" value="同意办结" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="315" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
