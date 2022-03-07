@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T05:24:36.732Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="829V29Ee3S5ZtvNCRkI8" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T05:25:28.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="x27Ix2E3VM0_bS48SoPT" version="16.2.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,6 +107,13 @@
               <mxPoint x="110" y="882" />
             </Array>
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WrnpuX-ZasRi4O7_Z498-6" value="&lt;div&gt;&lt;/div&gt;通知局分管领导" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;align=left;entryX=-0.4;entryY=0.732;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="8me5k0RuEljqpgm1LnXD-29">
+          <mxGeometry x="-0.899" y="10" relative="1" as="geometry">
+            <mxPoint x="-465" y="960" as="sourcePoint" />
+            <mxPoint as="offset" />
+            <mxPoint x="30" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
