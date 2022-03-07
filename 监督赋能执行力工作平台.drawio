@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T05:24:18.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="5q8qCEB34M2dEr80dco3" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T05:24:36.732Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="829V29Ee3S5ZtvNCRkI8" version="16.2.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry x="-290" y="520" width="10" height="600" as="geometry" />
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="30" y="520" width="10" height="580" as="geometry" />
+          <mxGeometry x="30" y="520" width="10" height="600" as="geometry" />
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-15" value="&lt;div&gt;1、创建交办任务；&lt;/div&gt;2、指派责任科室；&lt;br&gt;3、系统自动通知责任科室负责人；" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;align=left;" parent="1" source="8me5k0RuEljqpgm1LnXD-11" target="8me5k0RuEljqpgm1LnXD-14" edge="1">
           <mxGeometry x="-0.6774" relative="1" as="geometry">
@@ -45,17 +45,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8me5k0RuEljqpgm1LnXD-50" value="归档" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=1.2;entryY=0.395;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.9;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
-          <mxGeometry x="-0.5918" width="80" relative="1" as="geometry">
-            <mxPoint x="-280" y="1040" as="sourcePoint" />
-            <mxPoint x="-277" y="1079" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-200" y="1040" />
-              <mxPoint x="-200" y="1079" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-51" value="交办科室" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-335" y="400" width="100" height="760" as="geometry" />
         </mxCell>
@@ -70,7 +59,7 @@
           <mxGeometry x="225" y="400" width="100" height="760" as="geometry" />
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="8me5k0RuEljqpgm1LnXD-59" vertex="1">
-          <mxGeometry x="45" y="120" width="10" height="200" as="geometry" />
+          <mxGeometry x="45" y="120" width="10" height="600" as="geometry" />
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-60" value="局主要领导" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="475" y="400" width="100" height="760" as="geometry" />
