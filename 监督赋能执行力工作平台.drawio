@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T05:05:15.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="-vhPbeWb08IhxdZ9NZ9A" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T05:05:46.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="hEBvqmWgVjxs_4zn8Z-y" version="16.2.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
         <mxCell id="-VlPYzEYmDWwcu4X4Bcw-1" value="局党组成员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="720" y="400" width="100" height="760" as="geometry" />
         </mxCell>
-        <mxCell id="-VlPYzEYmDWwcu4X4Bcw-3" value="接单" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+        <mxCell id="-VlPYzEYmDWwcu4X4Bcw-3" value="责任科室负责人指派具体责任人" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.6517" width="80" relative="1" as="geometry">
             <mxPoint x="40" y="585" as="sourcePoint" />
             <mxPoint x="40" y="627" as="targetPoint" />
