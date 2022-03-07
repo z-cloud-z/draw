@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T08:41:07.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="MfBnIUwIFMZbGGvQ0f3q" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T08:41:39.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="AdmV5uMFMeZK4_MHh6Ry" version="16.2.4" type="github">
   <diagram id="zva_Izvk_Pw7jRFiOZ6U" name="第 1 页">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,6 +96,9 @@
         <mxCell id="wEzHK_rQ6-qJ8AS3pq5E-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="wEzHK_rQ6-qJ8AS3pq5E-37" target="wEzHK_rQ6-qJ8AS3pq5E-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wEzHK_rQ6-qJ8AS3pq5E-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="wEzHK_rQ6-qJ8AS3pq5E-37" target="wEzHK_rQ6-qJ8AS3pq5E-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wEzHK_rQ6-qJ8AS3pq5E-37" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;确认办结&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1740" y="320" width="120" height="50" as="geometry" />
         </mxCell>
@@ -155,6 +158,9 @@
         </mxCell>
         <mxCell id="wEzHK_rQ6-qJ8AS3pq5E-62" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;工作质量评价&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1740" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wEzHK_rQ6-qJ8AS3pq5E-66" value="工作作风评价" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="315" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
