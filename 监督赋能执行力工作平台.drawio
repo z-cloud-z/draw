@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T05:25:45.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="js6xQvugeaJ09rQFqWqB" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T05:27:17.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="N9gFUMmvg75QztvGX2GY" version="16.2.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-59" value="&lt;span&gt;分管领导&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="225" y="400" width="100" height="760" as="geometry" />
+          <mxGeometry x="350" y="400" width="100" height="760" as="geometry" />
         </mxCell>
         <mxCell id="8me5k0RuEljqpgm1LnXD-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="8me5k0RuEljqpgm1LnXD-59" vertex="1">
           <mxGeometry x="45" y="120" width="10" height="600" as="geometry" />
@@ -109,11 +109,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WrnpuX-ZasRi4O7_Z498-6" value="&lt;div&gt;&lt;/div&gt;通知局分管领导" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;align=left;entryX=-0.4;entryY=0.732;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="8me5k0RuEljqpgm1LnXD-29">
+        <mxCell id="WrnpuX-ZasRi4O7_Z498-6" value="&lt;div&gt;&lt;/div&gt;通知局分管领导" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;align=left;entryX=-0.4;entryY=0.732;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="-0.899" y="10" relative="1" as="geometry">
-            <mxPoint x="-465" y="960" as="sourcePoint" />
+            <mxPoint x="-465" y="998" as="sourcePoint" />
             <mxPoint as="offset" />
-            <mxPoint x="30" y="960" as="targetPoint" />
+            <mxPoint x="391" y="997.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WrnpuX-ZasRi4O7_Z498-7" value="&lt;div&gt;1、创建交办任务；&lt;/div&gt;2、指派责任科室；&lt;br&gt;3、系统自动通知责任科室负责人；" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;align=left;exitX=1;exitY=0.717;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8me5k0RuEljqpgm1LnXD-14">
+          <mxGeometry x="-0.6774" relative="1" as="geometry">
+            <mxPoint x="165" y="940" as="sourcePoint" />
+            <mxPoint as="offset" />
+            <mxPoint x="390" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
