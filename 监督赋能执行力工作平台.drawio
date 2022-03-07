@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T05:32:04.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="j9HwJNb53lbDrvzfKK2f" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T05:32:13.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="RaXYmvXduSsd6S6T1_P2" version="16.2.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,15 +70,6 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="-VlPYzEYmDWwcu4X4Bcw-5" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="320" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-VlPYzEYmDWwcu4X4Bcw-4" value="交办科室" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-520" y="400" width="100" height="760" as="geometry" />
-        </mxCell>
-        <mxCell id="WrnpuX-ZasRi4O7_Z498-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-VlPYzEYmDWwcu4X4Bcw-4">
-          <mxGeometry x="45" y="120" width="10" height="600" as="geometry" />
         </mxCell>
         <mxCell id="WrnpuX-ZasRi4O7_Z498-4" value="任务主要负责人&lt;br&gt;1、主要负责人填写工作情况报告；&lt;br&gt;2、上报科室单位负责人；" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;align=left;" edge="1" parent="1">
           <mxGeometry x="-0.6703" y="5" width="80" relative="1" as="geometry">
