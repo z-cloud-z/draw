@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T05:14:08.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="zET6qapg63T9xcZ9rGSt" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T05:17:19.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="t2M1ujmEFyOt-1IUUk9r" version="16.2.4" type="github">
   <diagram id="zva_Izvk_Pw7jRFiOZ6U" name="第 1 页">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wEzHK_rQ6-qJ8AS3pq5E-1" value="&lt;span style=&quot;text-align: left&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;创建交办任务&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 14px ; text-align: center&quot;&gt;交办科室：&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1、创建交办任务；&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2、指派责任科室；&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3、指派审批领导；&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;4、选择作风评价机构；&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="279.5" width="120" height="120" as="geometry" />
+          <mxGeometry x="-90" y="279.5" width="120" height="120.5" as="geometry" />
         </mxCell>
         <mxCell id="wEzHK_rQ6-qJ8AS3pq5E-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="wEzHK_rQ6-qJ8AS3pq5E-2" target="wEzHK_rQ6-qJ8AS3pq5E-6">
           <mxGeometry relative="1" as="geometry" />
@@ -339,6 +339,9 @@
         </mxCell>
         <mxCell id="wEzHK_rQ6-qJ8AS3pq5E-144" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;责任科室单&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;位负责人审核&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="554" y="888" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wEzHK_rQ6-qJ8AS3pq5E-161" value="是否办结" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="460" width="80" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
