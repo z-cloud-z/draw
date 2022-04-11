@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T07:14:43.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="-VwxJ_8tRFWwmDtNGFfl" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T07:15:06.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="ElR45YY9QtBjicneLfdE" version="17.2.1" type="github">
   <diagram id="dWDWc4EyFyWDF9khaK5P" name="第 1 页">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,14 @@
         <mxCell id="IIWNN38p0S4MDQGoE7q6-1" value="创建会议" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="IIWNN38p0S4MDQGoE7q6-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IIWNN38p0S4MDQGoE7q6-2" target="IIWNN38p0S4MDQGoE7q6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IIWNN38p0S4MDQGoE7q6-2" value="邀请参会嘉宾" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="200" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IIWNN38p0S4MDQGoE7q6-4" value="嘉宾扫码进入" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
