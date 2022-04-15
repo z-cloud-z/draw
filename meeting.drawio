@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T03:51:56.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="gklmC19AuGd_epqpwJiA" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-15T04:58:59.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="NRQiQ2lK0yhoAE1dsXI8" version="17.4.3" type="github">
   <diagram id="dWDWc4EyFyWDF9khaK5P" name="第 1 页">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,10 +66,10 @@
           <mxGeometry x="-70" y="730" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BEaddWaeXoZHOyZYiYv0-13" value="视频会议客户端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="80" y="760" width="100" height="300" as="geometry" />
+          <mxGeometry x="80" y="760" width="100" height="360" as="geometry" />
         </mxCell>
         <mxCell id="BEaddWaeXoZHOyZYiYv0-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BEaddWaeXoZHOyZYiYv0-13">
-          <mxGeometry x="45" y="60" width="10" height="180" as="geometry" />
+          <mxGeometry x="45" y="60" width="10" height="300" as="geometry" />
         </mxCell>
         <mxCell id="BEaddWaeXoZHOyZYiYv0-15" value="文旅云" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="320" y="760" width="100" height="300" as="geometry" />
@@ -77,28 +77,34 @@
         <mxCell id="BEaddWaeXoZHOyZYiYv0-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BEaddWaeXoZHOyZYiYv0-15">
           <mxGeometry x="45" y="60" width="10" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-25" value="会议号、会议密码" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="BEaddWaeXoZHOyZYiYv0-15">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-180.5" y="224" as="sourcePoint" />
-            <mxPoint x="280.5" y="224" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BEaddWaeXoZHOyZYiYv0-17" value="腾讯会议" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="560" y="760" width="100" height="360" as="geometry" />
         </mxCell>
         <mxCell id="BEaddWaeXoZHOyZYiYv0-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BEaddWaeXoZHOyZYiYv0-17">
-          <mxGeometry x="45" y="60" width="10" height="300" as="geometry" />
+          <mxGeometry x="45" y="60" width="10" height="180" as="geometry" />
         </mxCell>
         <mxCell id="BEaddWaeXoZHOyZYiYv0-19" value="扫一扫" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;" edge="1" parent="1">
           <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="-80" y="850" as="sourcePoint" />
-            <mxPoint x="120" y="850" as="targetPoint" />
+            <mxPoint x="-80" y="840" as="sourcePoint" />
+            <mxPoint x="120" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BEaddWaeXoZHOyZYiYv0-24" value="文旅云登录" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="139" y="880" as="sourcePoint" />
-            <mxPoint x="360" y="880" as="targetPoint" />
+            <mxPoint x="139" y="860" as="sourcePoint" />
+            <mxPoint x="360" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEaddWaeXoZHOyZYiYv0-25" value="会议号、会议密码" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="139.5" y="960" as="sourcePoint" />
+            <mxPoint x="600.5" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEaddWaeXoZHOyZYiYv0-26" value="当前会议信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="898" as="sourcePoint" />
+            <mxPoint x="140" y="898" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
