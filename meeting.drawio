@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T05:14:41.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="rscQ-siUaI21cRQDdH9M" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-15T05:15:30.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="ZRuNL9s_D5B6ROYo_WPe" version="17.4.3" type="github">
   <diagram id="dWDWc4EyFyWDF9khaK5P" name="第 1 页">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -177,7 +177,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-63" value="签约画面实时回传到文旅云" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+        <mxCell id="BEaddWaeXoZHOyZYiYv0-63" value="交流互动" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="140" y="1950" as="sourcePoint" />
             <mxPoint x="360" y="1950" as="targetPoint" />
