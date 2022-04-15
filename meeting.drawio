@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T03:24:44.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="2V_fFUE0SrV_GZQKnk7F" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-15T03:26:46.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="xdMl1bO47WQDGhd_08lH" version="17.4.3" type="github">
   <diagram id="dWDWc4EyFyWDF9khaK5P" name="第 1 页">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,6 +61,9 @@
         </mxCell>
         <mxCell id="BEaddWaeXoZHOyZYiYv0-6" value="会议密码" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="BEaddWaeXoZHOyZYiYv0-3">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BEaddWaeXoZHOyZYiYv0-9" value="签约方" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="790" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
