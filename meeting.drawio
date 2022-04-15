@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T06:43:21.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="M3OdC6d0WcVzSBTMj8OY" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-15T06:44:26.945Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="NWJbzDS7Ed6SURQH5uDP" version="17.4.3" type="github">
   <diagram id="dWDWc4EyFyWDF9khaK5P" name="第 1 页">
     <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -335,6 +335,12 @@
         <mxCell id="BEaddWaeXoZHOyZYiYv0-205" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.421;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="BEaddWaeXoZHOyZYiYv0-197" target="BEaddWaeXoZHOyZYiYv0-204">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BEaddWaeXoZHOyZYiYv0-208" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="BEaddWaeXoZHOyZYiYv0-197" target="BEaddWaeXoZHOyZYiYv0-206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEaddWaeXoZHOyZYiYv0-209" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="BEaddWaeXoZHOyZYiYv0-197" target="BEaddWaeXoZHOyZYiYv0-207">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BEaddWaeXoZHOyZYiYv0-197" value="场控主持人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="370" y="950" width="30" height="60" as="geometry" />
         </mxCell>
@@ -343,6 +349,12 @@
         </mxCell>
         <mxCell id="BEaddWaeXoZHOyZYiYv0-204" value="设置会大屏页面" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="505" y="830" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BEaddWaeXoZHOyZYiYv0-206" value="邀请" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="130" y="930" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BEaddWaeXoZHOyZYiYv0-207" value="嘉宾管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="550" y="945" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
