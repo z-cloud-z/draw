@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T05:46:56.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="mG1mbelPVQErw2v2Wuo0" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-15T05:47:17.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="ZHIu9mz3WAjINd_xlZfJ" version="17.4.3" type="github">
   <diagram id="dWDWc4EyFyWDF9khaK5P" name="第 1 页">
     <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -210,6 +210,9 @@
         <mxCell id="BEaddWaeXoZHOyZYiYv0-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="BEaddWaeXoZHOyZYiYv0-100" target="BEaddWaeXoZHOyZYiYv0-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BEaddWaeXoZHOyZYiYv0-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="BEaddWaeXoZHOyZYiYv0-100" target="BEaddWaeXoZHOyZYiYv0-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BEaddWaeXoZHOyZYiYv0-100" value="是否实名" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="60" y="-10" width="80" height="80" as="geometry" />
         </mxCell>
@@ -218,6 +221,9 @@
         </mxCell>
         <mxCell id="BEaddWaeXoZHOyZYiYv0-104" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="75" y="100" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BEaddWaeXoZHOyZYiYv0-105" value="&lt;span&gt;实名认证&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;（文旅云小程序）&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
