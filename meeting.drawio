@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T03:27:41.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="HPpGAh-fyl85P0Agstmx" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-15T03:32:27.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="K1LE20zIQWvclNzGbOm5" version="17.4.3" type="github">
   <diagram id="dWDWc4EyFyWDF9khaK5P" name="第 1 页">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,7 +48,7 @@
           <mxGeometry x="560" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BEaddWaeXoZHOyZYiYv0-1" value="签约方" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="220" y="560" width="80" height="80" as="geometry" />
+          <mxGeometry x="230" y="410" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BEaddWaeXoZHOyZYiYv0-3" value="邀请函" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="410" width="140" height="120" as="geometry" />
@@ -63,7 +63,19 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BEaddWaeXoZHOyZYiYv0-9" value="签约方" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="790" width="30" height="60" as="geometry" />
+          <mxGeometry x="105" y="650" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BEaddWaeXoZHOyZYiYv0-13" value="视频会议客户端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="760" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="BEaddWaeXoZHOyZYiYv0-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BEaddWaeXoZHOyZYiYv0-13">
+          <mxGeometry x="45" y="60" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="BEaddWaeXoZHOyZYiYv0-15" value="签约方" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="760" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="BEaddWaeXoZHOyZYiYv0-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BEaddWaeXoZHOyZYiYv0-15">
+          <mxGeometry x="45" y="60" width="10" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
