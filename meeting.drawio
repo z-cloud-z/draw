@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T06:36:07.962Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="foiovR0ewvJr8yMNZ1zC" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-15T06:36:45.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="6kv8EYWImbj0jFFz12mw" version="17.4.3" type="github">
   <diagram id="dWDWc4EyFyWDF9khaK5P" name="第 1 页">
     <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -309,65 +309,14 @@
         <mxCell id="BEaddWaeXoZHOyZYiYv0-174" value="扫码邀请二维码&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;（文旅云小程序）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="440" y="-540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="BEaddWaeXoZHOyZYiYv0-176" target="BEaddWaeXoZHOyZYiYv0-178">
+        <mxCell id="BEaddWaeXoZHOyZYiYv0-196" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="BEaddWaeXoZHOyZYiYv0-176" target="BEaddWaeXoZHOyZYiYv0-192">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BEaddWaeXoZHOyZYiYv0-176" value="进入会议页面&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;（文旅云小程序）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="440" y="-410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="BEaddWaeXoZHOyZYiYv0-178" target="BEaddWaeXoZHOyZYiYv0-180">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-178" value="生成大会邀请码&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;（文旅云）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="BEaddWaeXoZHOyZYiYv0-180" target="BEaddWaeXoZHOyZYiYv0-183">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-180" value="扫码大会邀请码&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;（文旅云小程序）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="BEaddWaeXoZHOyZYiYv0-183" target="BEaddWaeXoZHOyZYiYv0-185">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-182" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="BEaddWaeXoZHOyZYiYv0-183" target="BEaddWaeXoZHOyZYiYv0-188">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-183" value="是否实名" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="460" y="-30" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-184" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="BEaddWaeXoZHOyZYiYv0-185" target="BEaddWaeXoZHOyZYiYv0-191">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-185" value="参会嘉宾信息录入&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;（文旅云小程序）&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="440" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-186" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="475" y="80" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BEaddWaeXoZHOyZYiYv0-188" target="BEaddWaeXoZHOyZYiYv0-185">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="70" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="660" y="80" />
-              <mxPoint x="500" y="80" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-188" value="&lt;span&gt;实名认证&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;（文旅云小程序）&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="600" y="-20" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-189" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="555" y="-10" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="BEaddWaeXoZHOyZYiYv0-191" target="BEaddWaeXoZHOyZYiYv0-192">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-191" value="嘉宾信息完善&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;（文旅云）&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="BEaddWaeXoZHOyZYiYv0-192" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="485" y="390" width="30" height="30" as="geometry" />
+          <mxGeometry x="485" y="-280" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BEaddWaeXoZHOyZYiYv0-193" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="485" y="-634" width="30" height="30" as="geometry" />
