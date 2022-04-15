@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T05:34:41.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="CPsdVO1ziQwY5UyRclXF" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-15T05:35:09.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="bA43VZXZ-kcs2etyF1Gy" version="17.4.3" type="github">
   <diagram id="dWDWc4EyFyWDF9khaK5P" name="第 1 页">
     <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -181,44 +181,6 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="140" y="1950" as="sourcePoint" />
             <mxPoint x="360" y="1950" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-66" value="普通参会" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="2130" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-67" value="文旅云小程序" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2160" width="100" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-68" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BEaddWaeXoZHOyZYiYv0-67">
-          <mxGeometry x="45" y="60" width="10" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-69" value="文旅云" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="320" y="2160" width="100" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-70" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BEaddWaeXoZHOyZYiYv0-69">
-          <mxGeometry x="45" y="60" width="10" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-71" value="扫一扫" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="-80" y="2240" as="sourcePoint" />
-            <mxPoint x="120" y="2240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-72" value="进入大会页面" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="0.614" y="-30" width="80" relative="1" as="geometry">
-            <mxPoint x="140" y="2280" as="sourcePoint" />
-            <mxPoint x="145" y="2360" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="245" y="2280" />
-              <mxPoint x="245" y="2360" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-73" value="交流互动" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="140" y="2430" as="sourcePoint" />
-            <mxPoint x="360" y="2430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BEaddWaeXoZHOyZYiYv0-74" value="参会嘉宾" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
