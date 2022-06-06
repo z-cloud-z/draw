@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T02:47:47.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ajxugU2mUIRNt0a7751p" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-06T02:48:09.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="QS9CJC59MFFmLICI39BN" version="17.4.6" type="github">
   <diagram id="dWDWc4EyFyWDF9khaK5P" name="第 1 页">
     <mxGraphModel dx="2701" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -146,7 +146,7 @@
         <mxCell id="BEaddWaeXoZHOyZYiYv0-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="BEaddWaeXoZHOyZYiYv0-98" target="BEaddWaeXoZHOyZYiYv0-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BEaddWaeXoZHOyZYiYv0-98" value="扫码大会邀请码&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;（文旅云小程序）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="BEaddWaeXoZHOyZYiYv0-98" value="扫码会议邀请码&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;（文旅云小程序）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-680" y="-630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BEaddWaeXoZHOyZYiYv0-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="BEaddWaeXoZHOyZYiYv0-100" target="BEaddWaeXoZHOyZYiYv0-102" edge="1">
