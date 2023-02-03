@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T07:00:43.604Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="vjarAgSiG5t9PzVesM5N" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-03T07:01:07.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="eIXkXWuM3Xpc9x1rUMCo" version="17.4.6" type="github" pages="2">
   <diagram id="z-fNr77IuHyTejfaQIXq" name="第 1 页">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,6 +64,9 @@
         <mxCell id="43OzFKLABhHPorNRB5ZF-40" value="微信用户&lt;br&gt;是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="536" y="300" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="43OzFKLABhHPorNRB5ZF-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="43OzFKLABhHPorNRB5ZF-42" target="43OzFKLABhHPorNRB5ZF-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="43OzFKLABhHPorNRB5ZF-42" value="实名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="516" y="450" width="120" height="60" as="geometry" />
         </mxCell>
@@ -76,6 +79,9 @@
         </mxCell>
         <mxCell id="43OzFKLABhHPorNRB5ZF-45" value="创建微信用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="696" y="310" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="43OzFKLABhHPorNRB5ZF-48" value="获取手机号" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="516" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
