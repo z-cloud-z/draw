@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T07:01:44.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="SITmrJuwnuhGdBczxxI_" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-03T07:03:10.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="fZ5m7OBhfms9DeyQokap" version="17.4.6" type="github" pages="2">
   <diagram id="z-fNr77IuHyTejfaQIXq" name="第 1 页">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,8 +86,20 @@
         <mxCell id="43OzFKLABhHPorNRB5ZF-48" value="获取手机号" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="516" y="590" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="43OzFKLABhHPorNRB5ZF-54" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="43OzFKLABhHPorNRB5ZF-50" target="43OzFKLABhHPorNRB5ZF-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="43OzFKLABhHPorNRB5ZF-55" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="43OzFKLABhHPorNRB5ZF-50" target="43OzFKLABhHPorNRB5ZF-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="43OzFKLABhHPorNRB5ZF-50" value="用户是&lt;br&gt;否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="536" y="730" width="80" height="80" as="geometry" />
+          <mxGeometry x="536" y="700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="43OzFKLABhHPorNRB5ZF-52" value="创建用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="691" y="710" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="43OzFKLABhHPorNRB5ZF-53" value="绑定微信用户" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="483.5" y="860" width="185" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
