@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T14:10:11.292Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="QxUYG65tHBrCrHhJfk4s" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T14:12:52.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="3Qw5gg27IOlkE-FnTYmu" version="21.0.2" type="github">
   <diagram name="第 1 页" id="LMOrUs53wWnXZzzSdxjo">
     <mxGraphModel dx="1818" dy="1149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,17 +7,8 @@
         <mxCell id="SBikTrNOms9XPHG4j8-7-1" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.bus;gradientColor=none;gradientDirection=north;fontColor=#ffffff;perimeter=backbonePerimeter;backboneSize=20;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="210" y="280" width="650" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SBikTrNOms9XPHG4j8-7-2" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;rounded=0;fontSize=16;" edge="1" parent="1" source="SBikTrNOms9XPHG4j8-7-7" target="SBikTrNOms9XPHG4j8-7-1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1010" y="540" as="sourcePoint" />
-            <mxPoint x="590" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SBikTrNOms9XPHG4j8-7-3" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;企业&lt;/b&gt;&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="400" y="77.5" width="100" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="SBikTrNOms9XPHG4j8-7-7" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;web服务器&lt;/font&gt;&lt;/b&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="480" y="380" width="150" height="176.45" as="geometry" />
         </mxCell>
         <mxCell id="SBikTrNOms9XPHG4j8-7-12" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;退役军人&lt;/font&gt;&lt;/b&gt;" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=16;image=img/lib/mscae/Mobile_Engagement.svg;" vertex="1" parent="1">
           <mxGeometry x="800" y="77.5" width="34" height="50" as="geometry" />
@@ -56,16 +47,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SBikTrNOms9XPHG4j8-7-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;应用服务器&lt;/b&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="240" y="630" width="137.65" height="180" as="geometry" />
+          <mxGeometry x="1060" y="760" width="137.65" height="180" as="geometry" />
         </mxCell>
         <mxCell id="SBikTrNOms9XPHG4j8-7-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;应用服务器&lt;/b&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="670" y="655" width="137.65" height="180" as="geometry" />
+          <mxGeometry x="1030" y="430" width="137.65" height="180" as="geometry" />
         </mxCell>
         <mxCell id="SBikTrNOms9XPHG4j8-7-27" value="&lt;b&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;数据中心&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="260" y="970" width="620" height="140" as="geometry" />
         </mxCell>
         <mxCell id="SBikTrNOms9XPHG4j8-7-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;数据服务器&lt;/b&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="300" y="920" width="97.78" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SBikTrNOms9XPHG4j8-7-29" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="220" y="360" width="660" height="203.22" as="geometry" />
+        </mxCell>
+        <mxCell id="SBikTrNOms9XPHG4j8-7-28" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;WEB服务&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Nginx/静态资源&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SBikTrNOms9XPHG4j8-7-29">
+          <mxGeometry y="63.22000000000002" width="660" height="139.99999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="SBikTrNOms9XPHG4j8-7-7" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;web服务器&lt;/font&gt;&lt;/b&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;fontSize=16;" vertex="1" parent="SBikTrNOms9XPHG4j8-7-29">
+          <mxGeometry x="47.90322580645161" width="98.98999999999998" height="116.44999999999999" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
