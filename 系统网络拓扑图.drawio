@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T01:42:46.640Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="svp-0Qam2EuvqqG9MYMl" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T01:57:23.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="xgYliPyuq76LJY5vKXPP" version="20.8.16" type="github">
   <diagram name="第 1 页" id="vV2zMbp7ZWFQ6nNkdyA2">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,63 @@
         <mxCell id="1" parent="0" />
         <mxCell id="-d7PBWxsBeQFeIK-UZRL-1" value="&lt;h1&gt;&lt;b&gt;烟台市退役军人服务平台&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="244" y="100" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-d7PBWxsBeQFeIK-UZRL-2" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="360" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-d7PBWxsBeQFeIK-UZRL-4" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="345" y="570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-d7PBWxsBeQFeIK-UZRL-5" value="退役军人事务局" style="image;html=1;image=img/lib/clip_art/computers/Monitor_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="380" y="210" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-d7PBWxsBeQFeIK-UZRL-8" value="学校" style="image;html=1;image=img/lib/clip_art/computers/Monitor_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="230" y="225" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-d7PBWxsBeQFeIK-UZRL-9" value="企业" style="image;html=1;image=img/lib/clip_art/computers/Monitor_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="170" y="310" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-d7PBWxsBeQFeIK-UZRL-12" value="退役人" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="514" y="230" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-d7PBWxsBeQFeIK-UZRL-14" value="互联网" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="210" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-d7PBWxsBeQFeIK-UZRL-23" value="" style="html=1;outlineConnect=0;fillColor=#ffff88;strokeColor=#36393d;gradientDirection=north;strokeWidth=1;shape=mxgraph.networks.comm_link_edge;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.625;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-d7PBWxsBeQFeIK-UZRL-14" target="-d7PBWxsBeQFeIK-UZRL-5">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="220" y="510" as="sourcePoint" />
+            <mxPoint x="250" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d7PBWxsBeQFeIK-UZRL-25" value="" style="html=1;outlineConnect=0;fillColor=#ffff88;strokeColor=default;gradientDirection=north;strokeWidth=1;shape=mxgraph.networks.comm_link_edge;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.88;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-d7PBWxsBeQFeIK-UZRL-14" target="-d7PBWxsBeQFeIK-UZRL-12">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="596.25" y="400" as="sourcePoint" />
+            <mxPoint x="580" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d7PBWxsBeQFeIK-UZRL-26" value="" style="html=1;outlineConnect=0;fillColor=#ffff88;strokeColor=#36393d;gradientDirection=north;strokeWidth=1;shape=mxgraph.networks.comm_link_edge;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-d7PBWxsBeQFeIK-UZRL-14" target="-d7PBWxsBeQFeIK-UZRL-9">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="216.25" y="475" as="sourcePoint" />
+            <mxPoint x="200" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d7PBWxsBeQFeIK-UZRL-27" value="" style="html=1;outlineConnect=0;fillColor=#ffff88;strokeColor=#36393d;gradientDirection=north;strokeWidth=1;shape=mxgraph.networks.comm_link_edge;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-d7PBWxsBeQFeIK-UZRL-14" target="-d7PBWxsBeQFeIK-UZRL-8">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="441.25" y="400" as="sourcePoint" />
+            <mxPoint x="425" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d7PBWxsBeQFeIK-UZRL-28" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;rounded=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-d7PBWxsBeQFeIK-UZRL-4" target="-d7PBWxsBeQFeIK-UZRL-14">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="270" y="590" as="sourcePoint" />
+            <mxPoint x="370" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d7PBWxsBeQFeIK-UZRL-29" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;rounded=0;" edge="1" parent="1" source="-d7PBWxsBeQFeIK-UZRL-2" target="-d7PBWxsBeQFeIK-UZRL-4">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="180" y="770" as="sourcePoint" />
+            <mxPoint x="280" y="670" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
