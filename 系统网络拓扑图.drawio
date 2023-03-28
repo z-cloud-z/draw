@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T02:17:11.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="r2egFGbHAUUYMhOt_uSW" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T02:20:14.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Akxxf__CDXMJh6GO1yvg" version="20.8.16" type="github">
   <diagram name="第 1 页" id="vV2zMbp7ZWFQ6nNkdyA2">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,6 +113,18 @@
         </mxCell>
         <mxCell id="-d7PBWxsBeQFeIK-UZRL-70" value="开通网络访问策略" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
           <mxGeometry x="530" y="790" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-d7PBWxsBeQFeIK-UZRL-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="1" source="-d7PBWxsBeQFeIK-UZRL-73" target="-d7PBWxsBeQFeIK-UZRL-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-d7PBWxsBeQFeIK-UZRL-73" value="政务外网" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="630" y="510" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-d7PBWxsBeQFeIK-UZRL-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="1" source="-d7PBWxsBeQFeIK-UZRL-75" target="-d7PBWxsBeQFeIK-UZRL-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-d7PBWxsBeQFeIK-UZRL-75" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="675" y="640" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
