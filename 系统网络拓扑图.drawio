@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T05:37:09.323Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="7p_9Iry6bbv3L-tG747f" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T05:38:12.678Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="dgfwdZV5fL3n26rQSak4" version="21.1.7" type="github">
   <diagram name="第 1 页" id="vV2zMbp7ZWFQ6nNkdyA2">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -183,9 +183,6 @@
             <mxPoint x="397" y="1830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wmdig9cED4wvvsoljVP5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="1" source="wmdig9cED4wvvsoljVP5-16" target="wmdig9cED4wvvsoljVP5-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="wmdig9cED4wvvsoljVP5-16" value="&lt;b&gt;政务网互联网域&lt;/b&gt;" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.bus;gradientColor=none;gradientDirection=north;fontColor=#000000;perimeter=backbonePerimeter;backboneSize=20;" vertex="1" parent="1">
           <mxGeometry x="132" y="2050" width="385" height="20" as="geometry" />
         </mxCell>
@@ -207,16 +204,13 @@
         <mxCell id="wmdig9cED4wvvsoljVP5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="1" source="wmdig9cED4wvvsoljVP5-23" target="wmdig9cED4wvvsoljVP5-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="325" y="2280" />
+              <mxPoint x="460" y="2280" />
               <mxPoint x="597" y="2280" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wmdig9cED4wvvsoljVP5-23" value="应用服务器" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="284.5" y="2160" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="wmdig9cED4wvvsoljVP5-24" value="数据服务器" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="417" y="2160" width="80" height="80" as="geometry" />
+          <mxGeometry x="402" y="2160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wmdig9cED4wvvsoljVP5-25" value="政务云" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="67" y="1850" width="60" height="30" as="geometry" />
@@ -224,7 +218,7 @@
         <mxCell id="wmdig9cED4wvvsoljVP5-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="1" source="wmdig9cED4wvvsoljVP5-27" target="wmdig9cED4wvvsoljVP5-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wmdig9cED4wvvsoljVP5-27" value="数据交换服务器" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="wmdig9cED4wvvsoljVP5-27" value="数据服务器" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="682" y="2130" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wmdig9cED4wvvsoljVP5-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="1" source="wmdig9cED4wvvsoljVP5-29" target="wmdig9cED4wvvsoljVP5-27">
