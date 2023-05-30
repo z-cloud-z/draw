@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T13:27:08.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="M9rJpBgHVs_v_UwNMcka" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T13:27:38.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="VNfk1PDkO_2o3ygKrzsr" version="21.0.2" type="github">
   <diagram name="第 1 页" id="vV2zMbp7ZWFQ6nNkdyA2">
     <mxGraphModel dx="1434" dy="-261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,8 +86,7 @@
         <mxCell id="wmdig9cED4wvvsoljVP5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;" parent="1" source="wmdig9cED4wvvsoljVP5-23" target="wmdig9cED4wvvsoljVP5-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="437" y="2280" />
-              <mxPoint x="574" y="2280" />
+              <mxPoint x="390" y="2170" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -108,7 +107,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="590" y="2265" />
-              <mxPoint x="590" y="2100" />
+              <mxPoint x="590" y="2160" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -122,7 +121,7 @@
           <mxGeometry x="595" y="2040" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wmdig9cED4wvvsoljVP5-30" value="开通网络访问策略" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="438" y="2060" width="80" height="80" as="geometry" />
+          <mxGeometry x="470" y="2120" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="X8PI-VGRUF0kSfmnywWV-1" value="中间件及存储服务器" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="109" y="2300" width="80" height="80" as="geometry" />
