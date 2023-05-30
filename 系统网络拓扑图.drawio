@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T13:20:27.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_LVVU0M1H4DvR212xmoA" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T13:21:06.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="phGYSPQUm_Q7p_4y5mm9" version="21.0.2" type="github">
   <diagram name="第 1 页" id="vV2zMbp7ZWFQ6nNkdyA2">
     <mxGraphModel dx="1434" dy="-261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,13 +120,18 @@
         <mxCell id="wmdig9cED4wvvsoljVP5-34" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" parent="1" vertex="1">
           <mxGeometry x="679" y="1980" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X8PI-VGRUF0kSfmnywWV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X8PI-VGRUF0kSfmnywWV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="2120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="X8PI-VGRUF0kSfmnywWV-1" value="WEB接入服务器" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="234" y="2170" width="80" height="80" as="geometry" />
+          <mxGeometry x="261.5" y="2160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X8PI-VGRUF0kSfmnywWV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="1" source="X8PI-VGRUF0kSfmnywWV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="429" y="2170" as="sourcePoint" />
+            <mxPoint x="300" y="2070" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="284" y="2120" />
+              <mxPoint x="300" y="2120" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
