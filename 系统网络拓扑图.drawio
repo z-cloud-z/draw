@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T13:27:38.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="VNfk1PDkO_2o3ygKrzsr" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-31T01:56:05.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="vwTcqTVjLh9UYsDUij3I" version="21.3.4" type="github">
   <diagram name="第 1 页" id="vV2zMbp7ZWFQ6nNkdyA2">
-    <mxGraphModel dx="1434" dy="-261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="-379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,13 +65,13 @@
             <mxPoint x="374" y="1830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wmdig9cED4wvvsoljVP5-16" value="&lt;b&gt;政务网互联网域&lt;/b&gt;" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.bus;gradientColor=none;gradientDirection=north;fontColor=#000000;perimeter=backbonePerimeter;backboneSize=20;" parent="1" vertex="1">
+        <mxCell id="wmdig9cED4wvvsoljVP5-16" value="&lt;b&gt;互联网域&lt;/b&gt;" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.bus;gradientColor=none;gradientDirection=north;fontColor=#000000;perimeter=backbonePerimeter;backboneSize=20;" parent="1" vertex="1">
           <mxGeometry x="45" y="2040" width="185" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wmdig9cED4wvvsoljVP5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=2;fontColor=#000000;endArrow=none;endFill=0;" parent="1" source="wmdig9cED4wvvsoljVP5-18" target="wmdig9cED4wvvsoljVP5-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X8PI-VGRUF0kSfmnywWV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="wmdig9cED4wvvsoljVP5-18" target="wmdig9cED4wvvsoljVP5-23">
+        <mxCell id="X8PI-VGRUF0kSfmnywWV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=none;endFill=0;" parent="1" source="wmdig9cED4wvvsoljVP5-18" target="wmdig9cED4wvvsoljVP5-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wmdig9cED4wvvsoljVP5-18" value="WEB服务器" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;fontColor=#000000;" parent="1" vertex="1">
@@ -90,7 +90,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X8PI-VGRUF0kSfmnywWV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="wmdig9cED4wvvsoljVP5-23" target="X8PI-VGRUF0kSfmnywWV-1">
+        <mxCell id="X8PI-VGRUF0kSfmnywWV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="wmdig9cED4wvvsoljVP5-23" target="X8PI-VGRUF0kSfmnywWV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="380" y="2350" />
@@ -117,13 +117,13 @@
         <mxCell id="wmdig9cED4wvvsoljVP5-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;" parent="1" source="wmdig9cED4wvvsoljVP5-29" target="wmdig9cED4wvvsoljVP5-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wmdig9cED4wvvsoljVP5-29" value="&lt;b&gt;政务外网公共服务域&lt;/b&gt;" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.bus;gradientColor=none;gradientDirection=north;fontColor=#000000;perimeter=backbonePerimeter;backboneSize=20;" parent="1" vertex="1">
+        <mxCell id="wmdig9cED4wvvsoljVP5-29" value="&lt;b&gt;公共服务域&lt;/b&gt;" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.bus;gradientColor=none;gradientDirection=north;fontColor=#000000;perimeter=backbonePerimeter;backboneSize=20;" parent="1" vertex="1">
           <mxGeometry x="595" y="2040" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wmdig9cED4wvvsoljVP5-30" value="开通网络访问策略" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" parent="1" vertex="1">
           <mxGeometry x="470" y="2120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="X8PI-VGRUF0kSfmnywWV-1" value="中间件及存储服务器" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="X8PI-VGRUF0kSfmnywWV-1" value="中间件及存储服务器" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="109" y="2300" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
