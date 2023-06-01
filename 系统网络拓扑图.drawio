@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T07:23:59.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="kVnqYo2YfC4dt2FQlgpe" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T07:24:18.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="lwyK1T-k9YPm9hOQCFHE" version="21.3.4" type="github">
   <diagram name="第 1 页" id="vV2zMbp7ZWFQ6nNkdyA2">
     <mxGraphModel dx="1434" dy="-379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -126,7 +126,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="735" y="2130" />
-              <mxPoint x="780" y="2130" />
+              <mxPoint x="810" y="2130" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -138,7 +138,7 @@
             <Array as="points">
               <mxPoint x="590" y="2160" />
               <mxPoint x="590" y="2360" />
-              <mxPoint x="787" y="2360" />
+              <mxPoint x="830" y="2360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -149,7 +149,7 @@
           <mxGeometry x="109" y="2300" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MUmW_q9t8xfjBaTZVJD4-1" value="数据共享交换服务器" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="747" y="2225" width="80" height="80" as="geometry" />
+          <mxGeometry x="780" y="2225" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
