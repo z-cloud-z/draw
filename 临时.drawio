@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T01:09:08.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qi8Y-oWOWzWSqojYqhk-" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T01:09:54.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="U-skqVdkUXQn9mQOZ-Vj" version="22.1.7" type="github">
   <diagram name="第 1 页" id="ZN5-VuV8sDICE7CKHE0F">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,6 +48,12 @@
         </mxCell>
         <mxCell id="QoUXqtfiqc7Qre5n5OzV-15" value="主题库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QoUXqtfiqc7Qre5n5OzV-17" value="人口库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="384" y="1010" width="76" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QoUXqtfiqc7Qre5n5OzV-18" value="企业库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1010" width="76" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
