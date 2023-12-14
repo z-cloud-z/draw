@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T09:04:18.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="iHMAq1ANRyND4izjD2MN" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-14T09:08:09.546Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Buw0D-wUphbDXGL3K_Lx" version="22.1.8" type="github">
   <diagram name="第 1 页" id="CrEvW9pFzBhu908rF6s5">
     <mxGraphModel dx="1434" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,17 +61,10 @@
         <mxCell id="GFlxzyXbFYNbmDDl-b3X-21" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;1、确定项目工作范围；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;2、确定项目功能范围；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;3、确定项目干系人及职责；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;4、确定项目开发周期，制定项目里程碑；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;5、确定项目绩效系数；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;6、项目立项书；&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontSize=16;" parent="GFlxzyXbFYNbmDDl-b3X-23" vertex="1">
           <mxGeometry x="50" width="350" height="218" as="geometry" />
         </mxCell>
-        <mxCell id="GFlxzyXbFYNbmDDl-b3X-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" parent="1" source="GFlxzyXbFYNbmDDl-b3X-4" target="GFlxzyXbFYNbmDDl-b3X-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GFlxzyXbFYNbmDDl-b3X-28" value="" style="group;fontSize=16;verticalAlign=middle;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="350" y="289.5" width="370" height="87" as="geometry" />
-        </mxCell>
-        <mxCell id="GFlxzyXbFYNbmDDl-b3X-24" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=16;" parent="GFlxzyXbFYNbmDDl-b3X-28" vertex="1">
-          <mxGeometry width="29.6" height="87" as="geometry" />
-        </mxCell>
-        <mxCell id="GFlxzyXbFYNbmDDl-b3X-27" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="GFlxzyXbFYNbmDDl-b3X-28" vertex="1">
-          <mxGeometry x="59.2" width="310.8" height="87" as="geometry" />
+        <mxCell id="GFlxzyXbFYNbmDDl-b3X-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" parent="1" source="GFlxzyXbFYNbmDDl-b3X-4" target="HhBOS2dgm90hjr-vvZMC-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="352.96000000000004" y="333" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="GFlxzyXbFYNbmDDl-b3X-29" value="" style="group;fontSize=16;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="360" y="434.5" width="250" height="77" as="geometry" />
@@ -132,6 +125,33 @@
         </mxCell>
         <mxCell id="HhBOS2dgm90hjr-vvZMC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="GFlxzyXbFYNbmDDl-b3X-14" target="HhBOS2dgm90hjr-vvZMC-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HhBOS2dgm90hjr-vvZMC-7" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="283" width="400" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HhBOS2dgm90hjr-vvZMC-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=16;" vertex="1" parent="HhBOS2dgm90hjr-vvZMC-7">
+          <mxGeometry y="3.8461538461538467" width="25" height="92.3076923076923" as="geometry" />
+        </mxCell>
+        <mxCell id="HhBOS2dgm90hjr-vvZMC-9" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;1、用户需求规格说明书；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;2、功能分解文档；&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontSize=16;" vertex="1" parent="HhBOS2dgm90hjr-vvZMC-7">
+          <mxGeometry x="50" width="350" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HhBOS2dgm90hjr-vvZMC-19" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="710" y="360" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HhBOS2dgm90hjr-vvZMC-20" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=16;" vertex="1" parent="HhBOS2dgm90hjr-vvZMC-19">
+          <mxGeometry y="4.615384615384615" width="25" height="110.76923076923075" as="geometry" />
+        </mxCell>
+        <mxCell id="HhBOS2dgm90hjr-vvZMC-21" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;1、原型设计；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;2、UI设计&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontSize=16;" vertex="1" parent="HhBOS2dgm90hjr-vvZMC-19">
+          <mxGeometry x="50" width="350" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HhBOS2dgm90hjr-vvZMC-22" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="720" y="540" width="400" height="218" as="geometry" />
+        </mxCell>
+        <mxCell id="HhBOS2dgm90hjr-vvZMC-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=16;" vertex="1" parent="HhBOS2dgm90hjr-vvZMC-22">
+          <mxGeometry y="8.384615384615385" width="25" height="201.23076923076923" as="geometry" />
+        </mxCell>
+        <mxCell id="HhBOS2dgm90hjr-vvZMC-24" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;1、原型设计；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;2、UI设计&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontSize=16;" vertex="1" parent="HhBOS2dgm90hjr-vvZMC-22">
+          <mxGeometry x="50" width="350" height="218" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
