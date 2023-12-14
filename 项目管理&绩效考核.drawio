@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T09:14:32.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FghIHchoOoIrTu-brtsV" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-14T09:15:10.001Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8BrMXlC3Phi3izmynBDW" version="22.1.8" type="github">
   <diagram name="第 1 页" id="CrEvW9pFzBhu908rF6s5">
     <mxGraphModel dx="1434" dy="2061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -128,13 +128,13 @@
           <mxGeometry x="50" width="350" height="190.47619047619045" as="geometry" />
         </mxCell>
         <mxCell id="HhBOS2dgm90hjr-vvZMC-34" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="350" y="1200" width="400" height="120" as="geometry" />
+          <mxGeometry x="350" y="1210" width="400" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HhBOS2dgm90hjr-vvZMC-35" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=16;" vertex="1" parent="HhBOS2dgm90hjr-vvZMC-34">
-          <mxGeometry y="4.615384615384615" width="25" height="110.76923076923075" as="geometry" />
+          <mxGeometry y="3.846153846153846" width="25" height="92.30769230769229" as="geometry" />
         </mxCell>
         <mxCell id="HhBOS2dgm90hjr-vvZMC-36" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;1、系统部署架构图；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;2、部署运维手册；&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontSize=16;" vertex="1" parent="HhBOS2dgm90hjr-vvZMC-34">
-          <mxGeometry x="50" width="350" height="120" as="geometry" />
+          <mxGeometry x="50" width="350" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HhBOS2dgm90hjr-vvZMC-37" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="360" y="1490" width="400" height="120" as="geometry" />
