@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T11:42:50.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="q3K2Ii56P1vKayv4fq2M" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T11:46:08.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rExIZPdIfR8kcnjDOtxd" version="22.1.18" type="github">
   <diagram name="第 1 页" id="CrEvW9pFzBhu908rF6s5">
     <mxGraphModel dx="2060" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GFlxzyXbFYNbmDDl-b3X-8" value="开发" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="89" y="807" width="120" height="60" as="geometry" />
+          <mxGeometry x="89" y="818" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GFlxzyXbFYNbmDDl-b3X-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="GFlxzyXbFYNbmDDl-b3X-10" target="GFlxzyXbFYNbmDDl-b3X-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -106,17 +106,17 @@
         <mxCell id="HhBOS2dgm90hjr-vvZMC-20" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=16;" parent="HhBOS2dgm90hjr-vvZMC-19" vertex="1">
           <mxGeometry y="6.538461538461537" width="25" height="156.92307692307688" as="geometry" />
         </mxCell>
-        <mxCell id="HhBOS2dgm90hjr-vvZMC-21" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;1、原型设计；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;2、UI设计；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;3、概要设计说明书；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;4、详细设计说明书；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;5、数据库设计说明书；&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontSize=16;" parent="HhBOS2dgm90hjr-vvZMC-19" vertex="1">
+        <mxCell id="HhBOS2dgm90hjr-vvZMC-21" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;1、原型设计；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;2、概要设计说明书；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;3、详细设计说明书；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;4、数据库设计说明书；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;5、系统框架搭建；&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontSize=16;" parent="HhBOS2dgm90hjr-vvZMC-19" vertex="1">
           <mxGeometry x="50" width="350" height="170" as="geometry" />
         </mxCell>
         <mxCell id="HhBOS2dgm90hjr-vvZMC-28" value="" style="group;fontSize=16;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="343" y="777" width="400" height="120" as="geometry" />
+          <mxGeometry x="343" y="777" width="400" height="143" as="geometry" />
         </mxCell>
         <mxCell id="HhBOS2dgm90hjr-vvZMC-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=16;" parent="HhBOS2dgm90hjr-vvZMC-28" vertex="1">
-          <mxGeometry y="4.615384615384615" width="25" height="110.76923076923075" as="geometry" />
+          <mxGeometry y="5.499999999999999" width="25" height="131.99999999999997" as="geometry" />
         </mxCell>
-        <mxCell id="HhBOS2dgm90hjr-vvZMC-30" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;1、服务接口开发；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;2、WEB开发；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;3、数据库开发(数据库设计文档)；&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontSize=16;" parent="HhBOS2dgm90hjr-vvZMC-28" vertex="1">
-          <mxGeometry x="50" width="350" height="120" as="geometry" />
+        <mxCell id="HhBOS2dgm90hjr-vvZMC-30" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;1、UI开发；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;2、服务接口开发；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;3、WEB开发；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;4、数据开发；&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontSize=16;" parent="HhBOS2dgm90hjr-vvZMC-28" vertex="1">
+          <mxGeometry x="50" width="350" height="143" as="geometry" />
         </mxCell>
         <mxCell id="HhBOS2dgm90hjr-vvZMC-31" value="" style="group;fontSize=16;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="343" y="937" width="400" height="200" as="geometry" />
