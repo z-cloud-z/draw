@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T11:46:08.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rExIZPdIfR8kcnjDOtxd" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T11:47:22.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="cADbPNY2M3xTm1a2cNPQ" version="22.1.18" type="github">
   <diagram name="第 1 页" id="CrEvW9pFzBhu908rF6s5">
     <mxGraphModel dx="2060" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GFlxzyXbFYNbmDDl-b3X-10" value="测试" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="89" y="1007" width="120" height="60" as="geometry" />
+          <mxGeometry x="89" y="1038" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GFlxzyXbFYNbmDDl-b3X-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="GFlxzyXbFYNbmDDl-b3X-12" target="GFlxzyXbFYNbmDDl-b3X-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -119,13 +119,13 @@
           <mxGeometry x="50" width="350" height="143" as="geometry" />
         </mxCell>
         <mxCell id="HhBOS2dgm90hjr-vvZMC-31" value="" style="group;fontSize=16;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="343" y="937" width="400" height="200" as="geometry" />
+          <mxGeometry x="343" y="952" width="400" height="233" as="geometry" />
         </mxCell>
         <mxCell id="HhBOS2dgm90hjr-vvZMC-32" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=16;" parent="HhBOS2dgm90hjr-vvZMC-31" vertex="1">
-          <mxGeometry y="7.692307692307692" width="25" height="184.61538461538458" as="geometry" />
+          <mxGeometry y="8.961538461538462" width="25" height="215.07692307692304" as="geometry" />
         </mxCell>
-        <mxCell id="HhBOS2dgm90hjr-vvZMC-33" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;1、功能测试(测试用例)；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;2、性能测试；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;3、安全测试；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;4、测试报告；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;5、用户使用手册；&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontSize=16;" parent="HhBOS2dgm90hjr-vvZMC-31" vertex="1">
-          <mxGeometry x="50" width="350" height="190.47619047619045" as="geometry" />
+        <mxCell id="HhBOS2dgm90hjr-vvZMC-33" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;1、测试方案；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;2、功能测试；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;3、性能测试；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;4、安全测试；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;5、测试报告；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;6、用户使用手册；&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontSize=16;" parent="HhBOS2dgm90hjr-vvZMC-31" vertex="1">
+          <mxGeometry x="50" width="350" height="221.9047619047619" as="geometry" />
         </mxCell>
         <mxCell id="HhBOS2dgm90hjr-vvZMC-34" value="" style="group;fontSize=16;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="343" y="1227" width="400" height="100" as="geometry" />
