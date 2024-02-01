@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T01:59:48.352Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="SuGjI9u3LQgzFJkIx3cf" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-01T02:01:52.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="_bXaQi9hFlyeoDVm6BFm" version="23.0.2" type="github">
   <diagram name="第 1 页" id="HJm-pynabjcWrp_T7C9_">
     <mxGraphModel dx="1420" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
             <mxPoint x="150" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JeQD5Y5gDJ26oYreAfAy-15" value="信付惠" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="JeQD5Y5gDJ26oYreAfAy-15" value="信付惠&lt;br&gt;（小程序）" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="640" y="150" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JeQD5Y5gDJ26oYreAfAy-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
@@ -64,16 +64,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JeQD5Y5gDJ26oYreAfAy-19" value="发起支付" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="JeQD5Y5gDJ26oYreAfAy-19" value="发起支付" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="JeQD5Y5gDJ26oYreAfAy-16">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="490" y="540" as="sourcePoint" />
-            <mxPoint x="680" y="540" as="targetPoint" />
+            <mxPoint x="100" y="510" as="sourcePoint" />
+            <mxPoint x="680" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JeQD5Y5gDJ26oYreAfAy-20" value="支付回调" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="610" as="sourcePoint" />
-            <mxPoint x="490" y="610" as="targetPoint" />
+            <mxPoint x="690" y="560" as="sourcePoint" />
+            <mxPoint x="500" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JeQD5Y5gDJ26oYreAfAy-21" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
