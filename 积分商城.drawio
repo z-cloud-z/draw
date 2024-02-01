@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T02:16:42.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="blzdFTcSDUFwN8W7ucEe" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-01T02:19:00.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="E4q64LXftFO2CSq31EDj" version="23.0.2" type="github">
   <diagram name="第 1 页" id="HJm-pynabjcWrp_T7C9_">
     <mxGraphModel dx="1420" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,6 +119,9 @@
             <mxPoint x="820" y="720" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JeQD5Y5gDJ26oYreAfAy-36" value="积分商城支付流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="340" y="30" width="330" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
