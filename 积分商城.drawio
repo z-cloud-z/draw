@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T02:13:40.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-1FjrYXgYbt68_e23aZ9" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-01T02:14:33.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="YQEurA4AdGxhtEDrp5T8" version="23.0.2" type="github">
   <diagram name="第 1 页" id="HJm-pynabjcWrp_T7C9_">
     <mxGraphModel dx="1420" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,10 +39,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JeQD5Y5gDJ26oYreAfAy-14" value="订单校验失败(如：积分不够)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=1;entryY=0.306;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JeQD5Y5gDJ26oYreAfAy-7" target="JeQD5Y5gDJ26oYreAfAy-6">
+        <mxCell id="JeQD5Y5gDJ26oYreAfAy-14" value="订单校验失败(如：积分不够)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=1;entryY=0.306;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="390" as="sourcePoint" />
-            <mxPoint x="150" y="390" as="targetPoint" />
+            <mxPoint x="280" y="387.3599999999999" as="sourcePoint" />
+            <mxPoint x="100" y="387.3599999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JeQD5Y5gDJ26oYreAfAy-15" value="信付惠&lt;br&gt;（小程序）" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
