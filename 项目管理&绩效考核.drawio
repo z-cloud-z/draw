@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-04T03:06:15.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-LtHTM4Kvaodufk_Cswo" version="23.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-04T07:25:50.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Nvph_7DafCD0ATRvmCys" version="23.1.0" type="github">
   <diagram name="第 1 页" id="CrEvW9pFzBhu908rF6s5">
-    <mxGraphModel dx="1420" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
         <mxCell id="GFlxzyXbFYNbmDDl-b3X-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=16;" parent="GFlxzyXbFYNbmDDl-b3X-23" vertex="1">
           <mxGeometry y="8.461538461538462" width="25" height="203.07692307692304" as="geometry" />
         </mxCell>
-        <mxCell id="GFlxzyXbFYNbmDDl-b3X-21" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;1、确定项目工作范围；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;2、确定项目功能范围；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;3、确定项目干系人及职责；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;4、确定项目开发周期，制定项目里程碑；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;5、确定项目绩效系数；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;6、项目立项书；&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontSize=16;" parent="GFlxzyXbFYNbmDDl-b3X-23" vertex="1">
+        <mxCell id="GFlxzyXbFYNbmDDl-b3X-21" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;1、确定项目工作范围；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;2、确定项目功能范围；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;3、确定项目干系人及职责；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;4、确定项目开发周期，制定项目里程碑；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;5、确定项目绩效系数；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;6、项目立项书；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;7、确定项目成果；&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontSize=16;" parent="GFlxzyXbFYNbmDDl-b3X-23" vertex="1">
           <mxGeometry x="50" width="350" height="220" as="geometry" />
         </mxCell>
         <mxCell id="GFlxzyXbFYNbmDDl-b3X-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;dashed=1;" parent="1" source="GFlxzyXbFYNbmDDl-b3X-4" target="HhBOS2dgm90hjr-vvZMC-8" edge="1">
@@ -106,7 +106,7 @@
         <mxCell id="HhBOS2dgm90hjr-vvZMC-20" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=16;" parent="HhBOS2dgm90hjr-vvZMC-19" vertex="1">
           <mxGeometry y="6.499999999999999" width="25" height="155.99999999999997" as="geometry" />
         </mxCell>
-        <mxCell id="HhBOS2dgm90hjr-vvZMC-21" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;1、原型设计；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;2、概要设计说明书（可无）；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;3、详细设计说明书（可无）；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;4、数据库设计说明书；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;5、系统框架搭建；&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontSize=16;" parent="HhBOS2dgm90hjr-vvZMC-19" vertex="1">
+        <mxCell id="HhBOS2dgm90hjr-vvZMC-21" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;1、原型设计；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;2、概要设计说明书（可无）；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;3、详细设计说明书（可无）；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;4、数据库设计说明书；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;5、系统框架搭建；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;6、数据流图；&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontSize=16;" parent="HhBOS2dgm90hjr-vvZMC-19" vertex="1">
           <mxGeometry x="50" width="350" height="169" as="geometry" />
         </mxCell>
         <mxCell id="HhBOS2dgm90hjr-vvZMC-28" value="" style="group;fontSize=16;" parent="1" vertex="1" connectable="0">
