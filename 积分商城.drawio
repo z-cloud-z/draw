@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T10:14:43.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="sRSq_gbGOHkEeUx-1val" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-19T10:18:06.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="6MRxDA6KxbTGtjQwbuUU" version="23.1.5" type="github">
   <diagram name="第 1 页" id="HJm-pynabjcWrp_T7C9_">
     <mxGraphModel dx="1420" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,10 +29,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JeQD5Y5gDJ26oYreAfAy-14" value="返回结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="JeQD5Y5gDJ26oYreAfAy-14" value="返回预订单信息)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0323" relative="1" as="geometry">
             <mxPoint x="500" y="679.9999999999999" as="sourcePoint" />
             <mxPoint x="686" y="680" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JeQD5Y5gDJ26oYreAfAy-15" value="信付惠&lt;br&gt;（小程序）" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -145,7 +146,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HSAfTCYAlFK6gTtf9gRR-7" value="微信支付" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="HSAfTCYAlFK6gTtf9gRR-7" value="微信银联支付" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.75" y="-15" relative="1" as="geometry">
             <mxPoint x="700" y="710" as="sourcePoint" />
             <Array as="points">
