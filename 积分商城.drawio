@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T06:32:48.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="xhypEPOuBydlt07-17qW" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T06:33:24.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Cn1BtvESlTy4e-tjB1CM" version="23.1.5" type="github">
   <diagram name="第 1 页" id="HJm-pynabjcWrp_T7C9_">
     <mxGraphModel dx="1420" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,8 +106,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JeQD5Y5gDJ26oYreAfAy-36" value="积分商城支付流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="340" y="30" width="330" height="60" as="geometry" />
+        <mxCell id="JeQD5Y5gDJ26oYreAfAy-36" value="积分商城橙券商品支付流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" parent="1" vertex="1">
+          <mxGeometry x="340" y="30" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JeQD5Y5gDJ26oYreAfAy-39" value="获取订单状态" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.2632" relative="1" as="geometry">
@@ -235,8 +235,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HSAfTCYAlFK6gTtf9gRR-32" value="积分商城支付流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1230" width="330" height="60" as="geometry" />
+        <mxCell id="HSAfTCYAlFK6gTtf9gRR-32" value="积分商城实物商品支付流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1230" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HSAfTCYAlFK6gTtf9gRR-34" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.3846" y="-10" relative="1" as="geometry">
