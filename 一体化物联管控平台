@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T06:02:00.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="vZaFYKDIS5UZAOnKRm3X" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T06:02:48.218Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="DwDmzHAHCxtOknw30ipU" version="23.1.5" type="github">
   <diagram name="第 1 页" id="301yt5df146fH-NH9abs">
     <mxGraphModel dx="2247" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -195,7 +195,7 @@
         <mxCell id="uU02X1d5oIcC75HKzQop-5" value="设备配置&lt;br&gt;存储周期" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="877.5" y="760" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uU02X1d5oIcC75HKzQop-8" value="1、全部：t_datum_项目ID；&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;2、年表：t_datum_项目ID&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;_2024；&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;3、月表&lt;span style=&quot;&quot;&gt;：t_datum_项目ID&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;_202402；&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;4、日表&lt;span style=&quot;&quot;&gt;：t_datum_项目ID&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;_20240223；&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="uU02X1d5oIcC75HKzQop-8" value="1、全部：t_datum_项目ID；&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;2、年表：t_datum_项目ID&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;_2024；&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;3、月表&lt;span style=&quot;&quot;&gt;：t_datum_项目ID&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;_202402；&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;4、日表&lt;span style=&quot;&quot;&gt;：t_datum_项目ID&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;_20240223；&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
           <mxGeometry x="1037.5" y="760" width="235" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uU02X1d5oIcC75HKzQop-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uU02X1d5oIcC75HKzQop-11" target="uU02X1d5oIcC75HKzQop-15">
@@ -217,10 +217,10 @@
         <mxCell id="uU02X1d5oIcC75HKzQop-11" value="设备配置&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;存储表名&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="877.5" y="910" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uU02X1d5oIcC75HKzQop-14" value="1、全部：t_datum_设备ID；&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2、年表：t_datum_设备ID&lt;span style=&quot;&quot;&gt;_2024；&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;3、月表：t_datum_设备ID&lt;span style=&quot;&quot;&gt;_202402；&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;4、日表：t_datum_设备ID&lt;span style=&quot;&quot;&gt;_20240223；&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="uU02X1d5oIcC75HKzQop-14" value="1、全部：t_datum_设备ID；&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2、年表：t_datum_设备ID&lt;span style=&quot;&quot;&gt;_2024；&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;3、月表：t_datum_设备ID&lt;span style=&quot;&quot;&gt;_202402；&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;4、日表：t_datum_设备ID&lt;span style=&quot;&quot;&gt;_20240223；&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
           <mxGeometry x="1047.5" y="910" width="235" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uU02X1d5oIcC75HKzQop-15" value="1、全部：t_datum_xxx；&lt;br&gt;2、年表：t_datum_xxx_2024；&lt;br&gt;3、月表：t_datum_xxx_202402；&lt;br&gt;4、日表：t_datum_xxx_20240223；" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="uU02X1d5oIcC75HKzQop-15" value="1、全部：t_datum_xxx；&lt;br&gt;2、年表：t_datum_xxx_2024；&lt;br&gt;3、月表：t_datum_xxx_202402；&lt;br&gt;4、日表：t_datum_xxx_20240223；" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
           <mxGeometry x="800" y="1069" width="235" height="80" as="geometry" />
         </mxCell>
       </root>
