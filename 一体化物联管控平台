@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T06:22:05.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="aIrCCdobnLpiEwijphih" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T06:22:29.632Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="E6oviYUQ_v7B53lG2lE1" version="23.1.5" type="github">
   <diagram name="第 1 页" id="301yt5df146fH-NH9abs">
     <mxGraphModel dx="1420" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -179,7 +179,7 @@
         <mxCell id="uU02X1d5oIcC75HKzQop-4" value="采集表生成规则" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=14;" parent="uU02X1d5oIcC75HKzQop-21" vertex="1">
           <mxGeometry x="127.5" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uU02X1d5oIcC75HKzQop-5" value="设备配置&lt;br style=&quot;font-size: 14px;&quot;&gt;存储周期" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="uU02X1d5oIcC75HKzQop-21" vertex="1">
+        <mxCell id="uU02X1d5oIcC75HKzQop-5" value="设备配置&lt;br style=&quot;font-size: 12px;&quot;&gt;存储周期" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="uU02X1d5oIcC75HKzQop-21" vertex="1">
           <mxGeometry x="147.5" y="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uU02X1d5oIcC75HKzQop-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="uU02X1d5oIcC75HKzQop-21" source="uU02X1d5oIcC75HKzQop-4" target="uU02X1d5oIcC75HKzQop-5" edge="1">
@@ -196,7 +196,7 @@
             <mxPoint x="-4" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uU02X1d5oIcC75HKzQop-11" value="设备配置&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;存储表名&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;fontSize=14;" parent="uU02X1d5oIcC75HKzQop-21" vertex="1">
+        <mxCell id="uU02X1d5oIcC75HKzQop-11" value="设备配置&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;存储表名&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;fontSize=12;" parent="uU02X1d5oIcC75HKzQop-21" vertex="1">
           <mxGeometry x="147.5" y="310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uU02X1d5oIcC75HKzQop-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" parent="uU02X1d5oIcC75HKzQop-21" source="uU02X1d5oIcC75HKzQop-5" target="uU02X1d5oIcC75HKzQop-11" edge="1">
