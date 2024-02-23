@@ -1,9 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T09:59:14.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="23.1.5" etag="f2IHtIBYw62r1vgAAsux" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T00:11:20.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="5ZVzO40o5cYR_0mF3HkK" version="23.1.5" type="github">
   <diagram name="第 1 页" id="301yt5df146fH-NH9abs">
-    <mxGraphModel>
+    <mxGraphModel dx="1420" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="s9KITjDvjhsZbxwsLvn9-1" value="系统库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9KITjDvjhsZbxwsLvn9-2" value="业务库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9KITjDvjhsZbxwsLvn9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s9KITjDvjhsZbxwsLvn9-3" target="s9KITjDvjhsZbxwsLvn9-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="560" />
+              <mxPoint x="630" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9KITjDvjhsZbxwsLvn9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s9KITjDvjhsZbxwsLvn9-3" target="s9KITjDvjhsZbxwsLvn9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9KITjDvjhsZbxwsLvn9-3" value="采集库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="480" y="440" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9KITjDvjhsZbxwsLvn9-4" value="日志库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="360" y="440" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9KITjDvjhsZbxwsLvn9-5" value="告警库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="600" y="440" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9KITjDvjhsZbxwsLvn9-6" value="采集库1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="360" y="600" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9KITjDvjhsZbxwsLvn9-7" value="采集库2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="480" y="600" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9KITjDvjhsZbxwsLvn9-8" value="采集库3" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="600" y="600" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9KITjDvjhsZbxwsLvn9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s9KITjDvjhsZbxwsLvn9-3" target="s9KITjDvjhsZbxwsLvn9-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="560" />
+              <mxPoint x="390" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
