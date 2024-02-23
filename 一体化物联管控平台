@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T00:48:47.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="I-YTmRrNm0tL0dPzIoat" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T01:42:43.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="B6h5mmC_3TkiEwmaWiUw" version="23.1.5" type="github">
   <diagram name="第 1 页" id="301yt5df146fH-NH9abs">
     <mxGraphModel dx="1420" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="s9KITjDvjhsZbxwsLvn9-1" value="系统库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="120" y="440" width="60" height="80" as="geometry" />
+          <mxGeometry x="100" y="440" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s9KITjDvjhsZbxwsLvn9-2" value="业务库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="240" y="440" width="60" height="80" as="geometry" />
+          <mxGeometry x="220" y="440" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s9KITjDvjhsZbxwsLvn9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s9KITjDvjhsZbxwsLvn9-3" target="s9KITjDvjhsZbxwsLvn9-8">
           <mxGeometry relative="1" as="geometry">
@@ -25,7 +25,7 @@
           <mxGeometry x="480" y="440" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s9KITjDvjhsZbxwsLvn9-4" value="日志库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="360" y="440" width="60" height="80" as="geometry" />
+          <mxGeometry x="340" y="440" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s9KITjDvjhsZbxwsLvn9-5" value="告警库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="600" y="440" width="60" height="80" as="geometry" />
@@ -79,19 +79,30 @@
         <mxCell id="s9KITjDvjhsZbxwsLvn9-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s9KITjDvjhsZbxwsLvn9-32" target="s9KITjDvjhsZbxwsLvn9-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="390" y="370" />
+              <mxPoint x="440" y="370" />
               <mxPoint x="630" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="s9KITjDvjhsZbxwsLvn9-32" value="一体化物联管控平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=32;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="225" y="220" width="330" height="80" as="geometry" />
+          <mxGeometry x="275" y="220" width="330" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s9KITjDvjhsZbxwsLvn9-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s9KITjDvjhsZbxwsLvn9-32" target="s9KITjDvjhsZbxwsLvn9-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s9KITjDvjhsZbxwsLvn9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s9KITjDvjhsZbxwsLvn9-32" target="s9KITjDvjhsZbxwsLvn9-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9KITjDvjhsZbxwsLvn9-39" value="统计库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="720" y="440" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9KITjDvjhsZbxwsLvn9-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s9KITjDvjhsZbxwsLvn9-32" target="s9KITjDvjhsZbxwsLvn9-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="370" />
+              <mxPoint x="750" y="370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
