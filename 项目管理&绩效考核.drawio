@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T12:32:40.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="KKXhjq-OgJH-VH9lvau9" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T12:32:55.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7JfuI64UMkk5h1jI1KAa" version="24.0.1" type="github">
   <diagram name="第 1 页" id="CrEvW9pFzBhu908rF6s5">
     <mxGraphModel dx="2060" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -181,7 +181,7 @@
           <mxGeometry x="1640" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xFRqCPLFRLumwVhFB_PF-13" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1760" y="132" width="400" height="220" as="geometry" />
+          <mxGeometry x="1760" y="40" width="400" height="220" as="geometry" />
         </mxCell>
         <mxCell id="xFRqCPLFRLumwVhFB_PF-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=16;" vertex="1" parent="xFRqCPLFRLumwVhFB_PF-13">
           <mxGeometry y="8.461538461538462" width="25" height="203.07692307692304" as="geometry" />
@@ -189,7 +189,7 @@
         <mxCell id="xFRqCPLFRLumwVhFB_PF-15" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;1、工作任务（30%）；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;2、工作质量（20%）；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;3、工作技能(20%)；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;4、工作态度与责任感(10%)；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;5、沟通协调能力（10%)；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;6、纪律性（10%）；&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontSize=16;" vertex="1" parent="xFRqCPLFRLumwVhFB_PF-13">
           <mxGeometry x="50" width="350" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="xFRqCPLFRLumwVhFB_PF-16" value="项目启动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="xFRqCPLFRLumwVhFB_PF-16" value="考核内容" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1450" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xFRqCPLFRLumwVhFB_PF-17" value="项目启动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
