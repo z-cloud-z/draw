@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T12:37:53.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="qRFV2owExBb095EFgafM" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T12:39:42.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Xura8ZRzNlsQPhLL07IK" version="24.0.1" type="github">
   <diagram name="第 1 页" id="CrEvW9pFzBhu908rF6s5">
     <mxGraphModel dx="2060" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -225,8 +225,14 @@
         <mxCell id="xFRqCPLFRLumwVhFB_PF-27" value="运维工程师" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1760" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xFRqCPLFRLumwVhFB_PF-36" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="408" width="20" height="510" as="geometry" />
+        <mxCell id="xFRqCPLFRLumwVhFB_PF-37" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2040" y="560" width="400" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="xFRqCPLFRLumwVhFB_PF-38" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=16;" vertex="1" parent="xFRqCPLFRLumwVhFB_PF-37">
+          <mxGeometry y="8.461538461538462" width="25" height="203.07692307692304" as="geometry" />
+        </mxCell>
+        <mxCell id="xFRqCPLFRLumwVhFB_PF-39" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;1、初级：一、二、三级；&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;2、中&lt;span style=&quot;background-color: initial;&quot;&gt;级：一、二、三级；&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;3、高&lt;span style=&quot;background-color: initial;&quot;&gt;级：一、二、三级；&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontSize=16;" vertex="1" parent="xFRqCPLFRLumwVhFB_PF-37">
+          <mxGeometry x="50" width="350" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
