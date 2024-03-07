@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T12:05:49.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="sP8-gOj145BUsMnQoL59" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T12:09:36.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="NM62bYhW8AaS0EB-0kRm" version="24.0.1" type="github">
   <diagram name="第 1 页" id="301yt5df146fH-NH9abs">
     <mxGraphModel dx="2060" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -283,8 +283,17 @@
         <mxCell id="Hx2xQCkuOgfXZ3GZEMaG-22" value="IOTP-MQTT服务" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="620" y="1920" width="350" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="Hx2xQCkuOgfXZ3GZEMaG-23" value="实例01" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1920" width="350" height="460" as="geometry" />
+        <mxCell id="Hx2xQCkuOgfXZ3GZEMaG-23" value="实例01" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=14;fontStyle=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1920" width="120" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx2xQCkuOgfXZ3GZEMaG-24" value="线程1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1960" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx2xQCkuOgfXZ3GZEMaG-28" value="线程2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2020" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx2xQCkuOgfXZ3GZEMaG-29" value="线程3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2080" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
