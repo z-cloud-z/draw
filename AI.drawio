@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T02:39:00.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="pWn80p68Qu4eqTMV9X8M" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T02:40:37.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0evxD2r8_yguUtlv215J" version="24.6.4" type="github">
   <diagram name="第 1 页" id="Y8drmWvzBkvI4okCshWX">
     <mxGraphModel dx="2247" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LV9YCc_EGSqUjDLTgtPs-22" value="用户输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LV9YCc_EGSqUjDLTgtPs-23" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-60" y="110" width="520" height="430" as="geometry" />
@@ -43,8 +43,19 @@
         <mxCell id="LV9YCc_EGSqUjDLTgtPs-21" value="搜索引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LV9YCc_EGSqUjDLTgtPs-23">
           <mxGeometry x="310" y="260" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LV9YCc_EGSqUjDLTgtPs-26" value="获取场景" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="240" width="80" height="80" as="geometry" />
+        <mxCell id="LV9YCc_EGSqUjDLTgtPs-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LV9YCc_EGSqUjDLTgtPs-26" target="LV9YCc_EGSqUjDLTgtPs-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LV9YCc_EGSqUjDLTgtPs-30" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LV9YCc_EGSqUjDLTgtPs-29">
+          <mxGeometry x="-0.225" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LV9YCc_EGSqUjDLTgtPs-26" value="是否在场景中" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LV9YCc_EGSqUjDLTgtPs-28" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="400" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
