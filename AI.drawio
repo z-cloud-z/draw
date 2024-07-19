@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T02:55:31.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YiBSf8_bSNGAIAQJgmQR" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T02:56:58.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="xtx9o3gHiiSiO-L2GG_Z" version="24.6.4" type="github">
   <diagram name="第 1 页" id="Y8drmWvzBkvI4okCshWX">
     <mxGraphModel dx="2247" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="920" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LV9YCc_EGSqUjDLTgtPs-23" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-60" y="110" width="350" height="430" as="geometry" />
+          <mxGeometry x="-600" y="120" width="350" height="430" as="geometry" />
         </mxCell>
         <mxCell id="LV9YCc_EGSqUjDLTgtPs-2" value="线路规划" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=36;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="LV9YCc_EGSqUjDLTgtPs-23">
           <mxGeometry width="350" height="430" as="geometry" />
@@ -169,6 +169,36 @@
         </mxCell>
         <mxCell id="LV9YCc_EGSqUjDLTgtPs-56" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="1560" y="585" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LV9YCc_EGSqUjDLTgtPs-62" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-190" y="120" width="350" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="LV9YCc_EGSqUjDLTgtPs-63" value="门票预订" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=36;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="LV9YCc_EGSqUjDLTgtPs-62">
+          <mxGeometry width="350" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="LV9YCc_EGSqUjDLTgtPs-64" value="参数" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=22;strokeColor=#d6b656;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="LV9YCc_EGSqUjDLTgtPs-62">
+          <mxGeometry x="40.38461538461538" y="100" width="114.42307692307692" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="LV9YCc_EGSqUjDLTgtPs-65" value="目的地" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LV9YCc_EGSqUjDLTgtPs-62">
+          <mxGeometry x="53.84615384615384" y="160" width="87.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LV9YCc_EGSqUjDLTgtPs-66" value="时间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LV9YCc_EGSqUjDLTgtPs-62">
+          <mxGeometry x="53.84615384615384" y="210" width="87.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LV9YCc_EGSqUjDLTgtPs-67" value="人数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LV9YCc_EGSqUjDLTgtPs-62">
+          <mxGeometry x="53.84615384615384" y="260" width="87.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LV9YCc_EGSqUjDLTgtPs-69" value="数据" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=22;strokeColor=#d6b656;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="LV9YCc_EGSqUjDLTgtPs-62">
+          <mxGeometry x="195.19230769230768" y="100" width="114.42307692307692" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="LV9YCc_EGSqUjDLTgtPs-70" value="API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LV9YCc_EGSqUjDLTgtPs-62">
+          <mxGeometry x="208.6538461538461" y="160" width="87.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LV9YCc_EGSqUjDLTgtPs-71" value="知识库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LV9YCc_EGSqUjDLTgtPs-62">
+          <mxGeometry x="208.6538461538461" y="210" width="87.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LV9YCc_EGSqUjDLTgtPs-72" value="搜索引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LV9YCc_EGSqUjDLTgtPs-62">
+          <mxGeometry x="208.6538461538461" y="260" width="87.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
