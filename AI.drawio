@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T02:44:21.806Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Uqd8fQuis_JJiMs6O5cm" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T02:44:44.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="mBYyJCRqrRX978hqbah1" version="24.6.4" type="github">
   <diagram name="第 1 页" id="Y8drmWvzBkvI4okCshWX">
     <mxGraphModel dx="2247" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,6 +92,9 @@
         </mxCell>
         <mxCell id="LV9YCc_EGSqUjDLTgtPs-36" value="提取参数" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LV9YCc_EGSqUjDLTgtPs-41" value="普通对话" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
