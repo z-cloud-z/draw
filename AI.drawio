@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T02:51:32.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="iT-BaXeO3jcTMWRlfutf" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T02:53:09.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="eTVzCNq7_CoIMgw7rBeM" version="24.6.4" type="github">
   <diagram name="第 1 页" id="Y8drmWvzBkvI4okCshWX">
     <mxGraphModel dx="2247" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -152,6 +152,14 @@
         </mxCell>
         <mxCell id="LV9YCc_EGSqUjDLTgtPs-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LV9YCc_EGSqUjDLTgtPs-52" target="LV9YCc_EGSqUjDLTgtPs-54">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LV9YCc_EGSqUjDLTgtPs-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="LV9YCc_EGSqUjDLTgtPs-52" target="LV9YCc_EGSqUjDLTgtPs-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LV9YCc_EGSqUjDLTgtPs-60" value="场景" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LV9YCc_EGSqUjDLTgtPs-59">
+          <mxGeometry x="-0.2158" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LV9YCc_EGSqUjDLTgtPs-52" value="基于定义的参数生成问题" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1120" y="410" width="120" height="60" as="geometry" />
