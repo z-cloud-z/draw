@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T02:35:29.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="BTTSsf9MyL8nSjxakPTg" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T02:36:57.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="qHdppFCpzsKfBG3PvpWg" version="24.6.4" type="github">
   <diagram name="第 1 页" id="Y8drmWvzBkvI4okCshWX">
     <mxGraphModel dx="1420" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LV9YCc_EGSqUjDLTgtPs-2" value="线路规划" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=36;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="200" y="150" width="610" height="450" as="geometry" />
+        <mxCell id="LV9YCc_EGSqUjDLTgtPs-2" value="线路规划" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=36;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="160" y="170" width="520" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="LV9YCc_EGSqUjDLTgtPs-11" value="参数" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="LV9YCc_EGSqUjDLTgtPs-11" value="参数" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=22;strokeColor=#d6b656;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="220" y="270" width="170" height="270" as="geometry" />
         </mxCell>
         <mxCell id="LV9YCc_EGSqUjDLTgtPs-12" value="目的地" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -22,7 +22,7 @@
         <mxCell id="LV9YCc_EGSqUjDLTgtPs-15" value="偏好" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="480" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LV9YCc_EGSqUjDLTgtPs-18" value="数据" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="LV9YCc_EGSqUjDLTgtPs-18" value="数据" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=22;strokeColor=#d6b656;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="450" y="270" width="170" height="270" as="geometry" />
         </mxCell>
         <mxCell id="LV9YCc_EGSqUjDLTgtPs-19" value="API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
