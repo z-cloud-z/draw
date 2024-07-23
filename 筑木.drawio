@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T02:20:04.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="st7fpSXFDeaFEd4vQcZl" version="24.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T02:27:29.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="fcjqZbZQ50JzUitMoIRK" version="24.7.3" type="github">
   <diagram name="第 1 页" id="m2kS1PemUTTRJRQWlGag">
     <mxGraphModel dx="3074" dy="1927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,28 +8,28 @@
           <mxGeometry x="-1220" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LrHMKjxdgI11mjq6J2Rf-7" value="门板" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="-430" width="120" height="60" as="geometry" />
+          <mxGeometry x="-640" y="-584" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LrHMKjxdgI11mjq6J2Rf-8" value="截面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="-330" width="120" height="60" as="geometry" />
+          <mxGeometry x="-800" y="-484" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LrHMKjxdgI11mjq6J2Rf-9" value="用户图库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-860" y="-330" width="120" height="60" as="geometry" />
+          <mxGeometry x="-950" y="-484" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LrHMKjxdgI11mjq6J2Rf-10" value="配件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="-430" width="120" height="60" as="geometry" />
+          <mxGeometry x="-340" y="-584" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LrHMKjxdgI11mjq6J2Rf-11" value="材料" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="-330" width="120" height="60" as="geometry" />
+          <mxGeometry x="-640" y="-484" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LrHMKjxdgI11mjq6J2Rf-12" value="连接件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="-430" width="120" height="60" as="geometry" />
+          <mxGeometry x="-190" y="-584" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LrHMKjxdgI11mjq6J2Rf-13" value="连接方式" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="30" y="-430" width="120" height="60" as="geometry" />
+          <mxGeometry x="-60" y="-584" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LrHMKjxdgI11mjq6J2Rf-18" value="构件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="-430" width="120" height="60" as="geometry" />
+          <mxGeometry x="-480" y="-584" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LrHMKjxdgI11mjq6J2Rf-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="LrHMKjxdgI11mjq6J2Rf-19" target="LrHMKjxdgI11mjq6J2Rf-20">
           <mxGeometry relative="1" as="geometry" />
@@ -38,6 +38,9 @@
           <mxGeometry x="0.1522" y="1" relative="1" as="geometry">
             <mxPoint x="-35" y="-44" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LrHMKjxdgI11mjq6J2Rf-72" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LrHMKjxdgI11mjq6J2Rf-19" target="LrHMKjxdgI11mjq6J2Rf-71">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LrHMKjxdgI11mjq6J2Rf-19" value="柜体" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-840" y="-180" width="120" height="60" as="geometry" />
@@ -60,7 +63,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LrHMKjxdgI11mjq6J2Rf-25" value="柜体" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-850" y="-430" width="120" height="60" as="geometry" />
+          <mxGeometry x="-940" y="-584" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LrHMKjxdgI11mjq6J2Rf-26" value="门板" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="120" y="-170" width="120" height="60" as="geometry" />
@@ -198,7 +201,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LrHMKjxdgI11mjq6J2Rf-63" value="板件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="-430" width="120" height="60" as="geometry" />
+          <mxGeometry x="-790" y="-584" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LrHMKjxdgI11mjq6J2Rf-64" value="连接件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-260" y="400" width="120" height="60" as="geometry" />
@@ -224,6 +227,9 @@
         </mxCell>
         <mxCell id="LrHMKjxdgI11mjq6J2Rf-66" value="连接方式" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-260" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LrHMKjxdgI11mjq6J2Rf-71" value="材料" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="-150" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
