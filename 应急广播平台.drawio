@@ -53,7 +53,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PICD6bbU7p97rax8BCYg-11" value="中转服务器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PICD6bbU7p97rax8BCYg-11" value="中转服务器&lt;div&gt;（静默登录、数据同步）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
