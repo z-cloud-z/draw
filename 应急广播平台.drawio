@@ -38,7 +38,7 @@
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-10" value="专网" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="PICD6bbU7p97rax8BCYg-8">
           <mxGeometry x="0.0579" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint x="10" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;访问终端&lt;/font&gt;" style="fontColor=#000000;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#000000;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.monitor;" vertex="1" parent="1">
@@ -115,7 +115,7 @@
             <mxPoint y="57" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PICD6bbU7p97rax8BCYg-34" value="防火墙&lt;div&gt;控制访问策略&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/firewall.svg;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="PICD6bbU7p97rax8BCYg-34" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;防火墙&lt;/font&gt;&lt;div&gt;控制访问策略&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/firewall.svg;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="140" y="842" width="30.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontColor=#000000;" edge="1" parent="1" source="PICD6bbU7p97rax8BCYg-34" target="PICD6bbU7p97rax8BCYg-38">
