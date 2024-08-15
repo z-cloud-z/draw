@@ -11,7 +11,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PICD6bbU7p97rax8BCYg-1" value="数字文旅平台&lt;br&gt;（互联网）" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="PICD6bbU7p97rax8BCYg-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数字文旅平台&lt;/font&gt;&lt;br&gt;（互联网）" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-60" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-13" value="专网" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontColor=#000000;" edge="1" parent="1" source="PICD6bbU7p97rax8BCYg-2" target="PICD6bbU7p97rax8BCYg-11">
@@ -21,7 +21,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PICD6bbU7p97rax8BCYg-2" value="应急广播平台&lt;div&gt;（专网）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="PICD6bbU7p97rax8BCYg-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;应急广播平台&lt;/font&gt;&lt;div&gt;（专网）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="490" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.77;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;fontColor=#000000;" edge="1" parent="1" source="PICD6bbU7p97rax8BCYg-4">
@@ -39,7 +39,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PICD6bbU7p97rax8BCYg-4" value="访问终端" style="fontColor=#000000;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#000000;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.monitor;" vertex="1" parent="1">
+        <mxCell id="PICD6bbU7p97rax8BCYg-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;访问终端&lt;/font&gt;" style="fontColor=#000000;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#000000;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.monitor;" vertex="1" parent="1">
           <mxGeometry x="259.61" y="100" width="80" height="65" as="geometry" />
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontColor=#000000;" edge="1" parent="1" source="PICD6bbU7p97rax8BCYg-16" target="PICD6bbU7p97rax8BCYg-1">
@@ -55,10 +55,10 @@
             <mxPoint y="57" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PICD6bbU7p97rax8BCYg-11" value="中转服务器&lt;div&gt;（静默登录、数据同步）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="PICD6bbU7p97rax8BCYg-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;中转服务器&lt;/font&gt;&lt;div&gt;（静默登录、数据同步）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="220" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PICD6bbU7p97rax8BCYg-16" value="防火墙&lt;div&gt;控制访问策略&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/firewall.svg;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="PICD6bbU7p97rax8BCYg-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;防火墙&lt;/font&gt;&lt;div&gt;控制访问策略&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/firewall.svg;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="140" y="192" width="30.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;fontColor=#000000;" edge="1" parent="1" source="PICD6bbU7p97rax8BCYg-16" target="PICD6bbU7p97rax8BCYg-4">
@@ -72,7 +72,7 @@
         <mxCell id="PICD6bbU7p97rax8BCYg-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontColor=#000000;" edge="1" parent="1" source="PICD6bbU7p97rax8BCYg-18" target="PICD6bbU7p97rax8BCYg-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PICD6bbU7p97rax8BCYg-18" value="防火墙&lt;div&gt;控制访问策略&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/firewall.svg;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="PICD6bbU7p97rax8BCYg-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;防火墙&lt;/font&gt;&lt;div&gt;控制访问策略&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/firewall.svg;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="90" y="505" width="30.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-25" value="数字文旅平台&lt;br&gt;（互联网）" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
