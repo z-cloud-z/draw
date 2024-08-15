@@ -142,7 +142,7 @@
           <mxGeometry x="-40" y="1370" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-50" value="数字文旅平台PC端" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1400" width="110" height="50" as="geometry" />
+          <mxGeometry x="164.61" y="1210" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-51" value="数字文旅平台" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="274.61" y="1400" width="110" height="50" as="geometry" />
@@ -221,12 +221,17 @@
             <mxPoint x="23" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PICD6bbU7p97rax8BCYg-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="PICD6bbU7p97rax8BCYg-63" target="PICD6bbU7p97rax8BCYg-56">
+        <mxCell id="PICD6bbU7p97rax8BCYg-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1" source="PICD6bbU7p97rax8BCYg-63" target="PICD6bbU7p97rax8BCYg-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="210" y="1900" />
               <mxPoint x="210" y="1900" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PICD6bbU7p97rax8BCYg-79" value="8、返回登录结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PICD6bbU7p97rax8BCYg-78">
+          <mxGeometry x="0.2378" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-63" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
@@ -248,7 +253,7 @@
         <mxCell id="PICD6bbU7p97rax8BCYg-68" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="320" y="1630" width="10" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PICD6bbU7p97rax8BCYg-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="PICD6bbU7p97rax8BCYg-73" target="PICD6bbU7p97rax8BCYg-63">
+        <mxCell id="PICD6bbU7p97rax8BCYg-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1" source="PICD6bbU7p97rax8BCYg-73" target="PICD6bbU7p97rax8BCYg-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="670" y="1820" />
@@ -263,6 +268,9 @@
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-73" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="710" y="1720" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="PICD6bbU7p97rax8BCYg-80" value="数字文旅平台PC端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="85" y="1400" width="100" height="680" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
