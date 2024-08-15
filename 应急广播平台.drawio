@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="第 1 页" id="O3yKie8wYm_dcf342z6G">
-    <mxGraphModel dx="2247" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2247" dy="1927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,6 +128,9 @@
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-38" value="访问终端及中转服务器&lt;div&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;（静默登录、数据同步）&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="fontColor=#000000;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
           <mxGeometry x="220" y="750" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PICD6bbU7p97rax8BCYg-43" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;数字文旅平台融合应急广播平台&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-20" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
