@@ -75,22 +75,8 @@
         <mxCell id="PICD6bbU7p97rax8BCYg-18" value="防火墙&lt;div&gt;控制访问策略&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/firewall.svg;" vertex="1" parent="1">
           <mxGeometry x="90" y="505" width="30.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PICD6bbU7p97rax8BCYg-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PICD6bbU7p97rax8BCYg-25" target="PICD6bbU7p97rax8BCYg-37">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint y="1180" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-25" value="数字文旅平台&lt;br&gt;（互联网）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="1000" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PICD6bbU7p97rax8BCYg-26" value="专网" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PICD6bbU7p97rax8BCYg-27" target="PICD6bbU7p97rax8BCYg-33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="550" y="1180" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-27" value="应急广播平台&lt;div&gt;（专网）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="990" width="120" height="60" as="geometry" />
@@ -122,9 +108,6 @@
             <mxPoint y="57" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PICD6bbU7p97rax8BCYg-33" value="中转服务器&lt;div&gt;（静默登录、数据同步）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1150" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-34" value="防火墙&lt;div&gt;控制访问策略&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/firewall.svg;" vertex="1" parent="1">
           <mxGeometry x="140" y="842" width="30.5" height="50" as="geometry" />
         </mxCell>
@@ -136,13 +119,7 @@
             <mxPoint x="280" y="815" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PICD6bbU7p97rax8BCYg-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="PICD6bbU7p97rax8BCYg-37" target="PICD6bbU7p97rax8BCYg-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PICD6bbU7p97rax8BCYg-37" value="防火墙&lt;div&gt;控制访问策略&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/firewall.svg;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1155" width="30.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="PICD6bbU7p97rax8BCYg-38" value="访问终端及中转服务器" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+        <mxCell id="PICD6bbU7p97rax8BCYg-38" value="访问终端及中转服务器&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); text-wrap: wrap;&quot;&gt;（静默登录、数据同步）&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
           <mxGeometry x="220" y="750" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
