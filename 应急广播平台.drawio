@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PICD6bbU7p97rax8BCYg-83" value="应急广播平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="665" y="1400" width="100" height="680" as="geometry" />
+        </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-82" value="中转服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="465" y="1400" width="100" height="680" as="geometry" />
         </mxCell>
@@ -148,7 +151,7 @@
           <mxGeometry x="190" y="700" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-46" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1370" width="30" height="60" as="geometry" />
+          <mxGeometry x="-50" y="1370" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -173,7 +176,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-55" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1480" width="10" height="80" as="geometry" />
+          <mxGeometry x="-40" y="1480" width="10" height="110" as="geometry" />
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="PICD6bbU7p97rax8BCYg-56" target="PICD6bbU7p97rax8BCYg-63">
           <mxGeometry relative="1" as="geometry">
@@ -188,8 +191,21 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PICD6bbU7p97rax8BCYg-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="PICD6bbU7p97rax8BCYg-56" target="PICD6bbU7p97rax8BCYg-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="1990" />
+              <mxPoint x="570" y="1990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PICD6bbU7p97rax8BCYg-85" value="9、成功：跳转到应急广播平台" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PICD6bbU7p97rax8BCYg-84">
+          <mxGeometry x="-0.0561" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-56" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="130" y="1480" width="10" height="470" as="geometry" />
+          <mxGeometry x="130" y="1480" width="10" height="570" as="geometry" />
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="PICD6bbU7p97rax8BCYg-63" target="PICD6bbU7p97rax8BCYg-68">
           <mxGeometry relative="1" as="geometry">
@@ -221,8 +237,8 @@
         <mxCell id="PICD6bbU7p97rax8BCYg-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1" source="PICD6bbU7p97rax8BCYg-63" target="PICD6bbU7p97rax8BCYg-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="210" y="1900" />
-              <mxPoint x="210" y="1900" />
+              <mxPoint x="390" y="1880" />
+              <mxPoint x="390" y="1880" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -264,10 +280,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-73" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="710" y="1720" width="10" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="PICD6bbU7p97rax8BCYg-83" value="应急广播平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="665" y="1400" width="100" height="680" as="geometry" />
+          <mxGeometry x="710" y="1720" width="10" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
