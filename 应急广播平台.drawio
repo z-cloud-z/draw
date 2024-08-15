@@ -286,19 +286,19 @@
           <mxGeometry x="65" y="1400" width="500" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-87" value="应急广播平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="465" y="2590" width="100" height="680" as="geometry" />
+          <mxGeometry x="465" y="2590" width="100" height="496" as="geometry" />
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-114" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="PICD6bbU7p97rax8BCYg-87">
           <mxGeometry x="45" y="70" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-88" value="中转服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="265" y="2590" width="100" height="680" as="geometry" />
+          <mxGeometry x="265" y="2590" width="100" height="491" as="geometry" />
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-108" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="PICD6bbU7p97rax8BCYg-88">
           <mxGeometry x="45" y="70" width="10" height="270" as="geometry" />
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-89" value="数字文旅平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="75" y="2590" width="100" height="680" as="geometry" />
+          <mxGeometry x="75" y="2590" width="100" height="503" as="geometry" />
         </mxCell>
         <mxCell id="PICD6bbU7p97rax8BCYg-111" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="PICD6bbU7p97rax8BCYg-89">
           <mxGeometry x="45.5" y="170" width="10" height="290" as="geometry" />
