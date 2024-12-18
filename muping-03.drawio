@@ -177,6 +177,55 @@
         <mxCell id="w9xpegP0zcGpNzlqusWE-125" value="发布反馈" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="228" y="1330" width="80" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9xpegP0zcGpNzlqusWE-127" target="w9xpegP0zcGpNzlqusWE-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-127" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830.5" y="880" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9xpegP0zcGpNzlqusWE-129" target="w9xpegP0zcGpNzlqusWE-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-129" value="接收反馈" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="821.5" y="960" width="88" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9xpegP0zcGpNzlqusWE-131" target="w9xpegP0zcGpNzlqusWE-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-131" value="问题分类" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="821.5" y="1030" width="88" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9xpegP0zcGpNzlqusWE-136" target="w9xpegP0zcGpNzlqusWE-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-136" value="问题处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="825.5" y="1184" width="80" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9xpegP0zcGpNzlqusWE-138" target="w9xpegP0zcGpNzlqusWE-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-138" value="通知反馈" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="825.5" y="1260" width="80" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="w9xpegP0zcGpNzlqusWE-143">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="712.5" y="1189" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-142" value="通知反馈" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w9xpegP0zcGpNzlqusWE-141">
+          <mxGeometry x="-0.4286" relative="1" as="geometry">
+            <mxPoint x="24" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-143" value="通知反馈" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="825.5" y="1340" width="80" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w9xpegP0zcGpNzlqusWE-146" target="w9xpegP0zcGpNzlqusWE-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-146" value="问题分配" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="821" y="1110" width="88" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
