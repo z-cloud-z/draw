@@ -68,8 +68,19 @@
         <mxCell id="w9xpegP0zcGpNzlqusWE-74" value="定期巡检" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="544" y="280" width="88" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9xpegP0zcGpNzlqusWE-78" target="w9xpegP0zcGpNzlqusWE-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-82" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w9xpegP0zcGpNzlqusWE-81">
+          <mxGeometry x="-0.6087" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="w9xpegP0zcGpNzlqusWE-78" value="问题" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="557" y="350" width="62" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-80" value="问题清单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="528" y="434" width="120" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
