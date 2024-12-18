@@ -48,8 +48,28 @@
         <mxCell id="w9xpegP0zcGpNzlqusWE-80" value="问题清单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="548" y="434" width="80" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="w9xpegP0zcGpNzlqusWE-83" value="问题处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w9xpegP0zcGpNzlqusWE-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9xpegP0zcGpNzlqusWE-83" target="w9xpegP0zcGpNzlqusWE-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-83" value="问题整改" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="548" y="510" width="80" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w9xpegP0zcGpNzlqusWE-85" target="w9xpegP0zcGpNzlqusWE-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-85" value="用户反馈" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="389" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="w9xpegP0zcGpNzlqusWE-87" target="w9xpegP0zcGpNzlqusWE-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-90" value="通知反馈" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w9xpegP0zcGpNzlqusWE-89">
+          <mxGeometry x="-0.4286" relative="1" as="geometry">
+            <mxPoint x="24" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-87" value="测试、发布" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="548" y="590" width="80" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
