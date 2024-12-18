@@ -79,8 +79,14 @@
         <mxCell id="w9xpegP0zcGpNzlqusWE-78" value="问题" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="557" y="350" width="62" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9xpegP0zcGpNzlqusWE-80" target="w9xpegP0zcGpNzlqusWE-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w9xpegP0zcGpNzlqusWE-80" value="问题清单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="528" y="434" width="120" height="46" as="geometry" />
+          <mxGeometry x="548" y="434" width="80" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="w9xpegP0zcGpNzlqusWE-83" value="问题处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="548" y="510" width="80" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
