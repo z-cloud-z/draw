@@ -174,7 +174,7 @@
             <mxPoint x="24" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w9xpegP0zcGpNzlqusWE-125" value="测试、发布" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w9xpegP0zcGpNzlqusWE-125" value="发布反馈" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="228" y="1330" width="80" height="46" as="geometry" />
         </mxCell>
       </root>
