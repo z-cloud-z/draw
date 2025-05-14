@@ -4,11 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="R5hmWRW45EeVHVbpmFVQ-2" value="MD编辑器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="R5hmWRW45EeVHVbpmFVQ-2" value="MD编辑器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R5hmWRW45EeVHVbpmFVQ-3" value="XML编辑器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="R5hmWRW45EeVHVbpmFVQ-3" value="XML编辑器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R5hmWRW45EeVHVbpmFVQ-4" value="MD转换引擎" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="480" width="560" height="180" as="geometry" />
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="R5hmWRW45EeVHVbpmFVQ-7" value="......" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R5hmWRW45EeVHVbpmFVQ-8" value="文档管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
