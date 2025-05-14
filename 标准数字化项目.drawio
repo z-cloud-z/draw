@@ -10,17 +10,17 @@
         <mxCell id="R5hmWRW45EeVHVbpmFVQ-3" value="XML编辑器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R5hmWRW45EeVHVbpmFVQ-4" value="MD转换引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="R5hmWRW45EeVHVbpmFVQ-4" value="MD转换引擎" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="560" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="R5hmWRW45EeVHVbpmFVQ-5" value="PDF ---&amp;gt; MD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="590" width="120" height="60" as="geometry" />
+        <mxCell id="R5hmWRW45EeVHVbpmFVQ-5" value="PDF ---&amp;gt; MD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R5hmWRW45EeVHVbpmFVQ-6" value="WORD ---&amp;gt; MD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="590" width="120" height="60" as="geometry" />
+        <mxCell id="R5hmWRW45EeVHVbpmFVQ-6" value="WORD ---&amp;gt; MD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R5hmWRW45EeVHVbpmFVQ-7" value="...... ---&amp;gt; MD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="590" width="120" height="60" as="geometry" />
+        <mxCell id="R5hmWRW45EeVHVbpmFVQ-7" value="......" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
