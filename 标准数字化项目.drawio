@@ -63,6 +63,9 @@
         <mxCell id="R5hmWRW45EeVHVbpmFVQ-20" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;是否需要调整&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#7EA6E0;rounded=1;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="340" y="850" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="R5hmWRW45EeVHVbpmFVQ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R5hmWRW45EeVHVbpmFVQ-22" target="R5hmWRW45EeVHVbpmFVQ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="R5hmWRW45EeVHVbpmFVQ-22" value="生成XML" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#7EA6E0;rounded=1;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="320" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
@@ -75,6 +78,9 @@
         </mxCell>
         <mxCell id="R5hmWRW45EeVHVbpmFVQ-25" value="在线编辑MD" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#7EA6E0;rounded=1;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="480" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R5hmWRW45EeVHVbpmFVQ-28" value="在线编辑XML" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#7EA6E0;rounded=1;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
