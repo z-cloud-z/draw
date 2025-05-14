@@ -37,8 +37,20 @@
         <mxCell id="R5hmWRW45EeVHVbpmFVQ-12" value="后置页" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#7EA6E0;gradientColor=#7ea6e0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="325" width="120" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="R5hmWRW45EeVHVbpmFVQ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R5hmWRW45EeVHVbpmFVQ-14" target="R5hmWRW45EeVHVbpmFVQ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="R5hmWRW45EeVHVbpmFVQ-14" value="文档上传" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R5hmWRW45EeVHVbpmFVQ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R5hmWRW45EeVHVbpmFVQ-15" target="R5hmWRW45EeVHVbpmFVQ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R5hmWRW45EeVHVbpmFVQ-15" value="转换为MD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R5hmWRW45EeVHVbpmFVQ-17" value="文档上传" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
