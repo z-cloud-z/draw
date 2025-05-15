@@ -4,11 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="R5hmWRW45EeVHVbpmFVQ-31" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#dae8fc;strokeColor=#8FBCFF;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="560" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="R5hmWRW45EeVHVbpmFVQ-2" value="MD编辑器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="180" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R5hmWRW45EeVHVbpmFVQ-3" value="XML编辑器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="180" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R5hmWRW45EeVHVbpmFVQ-4" value="MD转换引擎" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#dae8fc;strokeColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="120" y="440" width="560" height="120" as="geometry" />
@@ -23,7 +26,7 @@
           <mxGeometry x="530" y="490" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R5hmWRW45EeVHVbpmFVQ-8" value="文档管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="180" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R5hmWRW45EeVHVbpmFVQ-9" value="XML转换引擎" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#dae8fc;strokeColor=#8FBCFF;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="560" height="110" as="geometry" />
