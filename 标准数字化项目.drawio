@@ -87,7 +87,7 @@
         <mxCell id="R5hmWRW45EeVHVbpmFVQ-28" value="在线编辑XML" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#7EA6E0;rounded=1;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="320" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WJREl7AgF6O7S-IlNiL0-2" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#dae8fc;strokeColor=#8FBCFF;" vertex="1" parent="1">
+        <mxCell id="WJREl7AgF6O7S-IlNiL0-2" value="数据服务" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#dae8fc;strokeColor=#8FBCFF;" vertex="1" parent="1">
           <mxGeometry x="120" y="420" width="560" height="110" as="geometry" />
         </mxCell>
         <mxCell id="WJREl7AgF6O7S-IlNiL0-3" value="文档库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#7EA6E0;" vertex="1" parent="1">
