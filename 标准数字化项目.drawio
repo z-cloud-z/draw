@@ -14,31 +14,28 @@
           <mxGeometry x="340" y="180" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R5hmWRW45EeVHVbpmFVQ-4" value="MD转换引擎" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#dae8fc;strokeColor=#7EA6E0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="440" width="560" height="120" as="geometry" />
+          <mxGeometry x="420" y="280" width="260" height="110" as="geometry" />
         </mxCell>
         <mxCell id="R5hmWRW45EeVHVbpmFVQ-5" value="PDF ---&amp;gt; MD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#7EA6E0;gradientColor=#7ea6e0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="492.5" width="120" height="45" as="geometry" />
+          <mxGeometry x="440" y="325" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R5hmWRW45EeVHVbpmFVQ-6" value="WORD ---&amp;gt; MD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#7EA6E0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="495" width="120" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="R5hmWRW45EeVHVbpmFVQ-7" value="......" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#7EA6E0;dashed=1;flipV=0;" parent="1" vertex="1">
-          <mxGeometry x="530" y="490" width="120" height="50" as="geometry" />
+          <mxGeometry x="560" y="325" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R5hmWRW45EeVHVbpmFVQ-8" value="文档管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="530" y="180" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R5hmWRW45EeVHVbpmFVQ-9" value="XML转换引擎" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#dae8fc;strokeColor=#8FBCFF;" parent="1" vertex="1">
-          <mxGeometry x="120" y="280" width="560" height="110" as="geometry" />
+          <mxGeometry x="120" y="280" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="R5hmWRW45EeVHVbpmFVQ-10" value="前置页" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#7EA6E0;gradientColor=#7ea6e0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="325" width="120" height="45" as="geometry" />
+          <mxGeometry x="140" y="325" width="60" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R5hmWRW45EeVHVbpmFVQ-11" value="正文" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#7EA6E0;gradientColor=#7ea6e0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="325" width="120" height="45" as="geometry" />
+          <mxGeometry x="220" y="325" width="60" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R5hmWRW45EeVHVbpmFVQ-12" value="后置页" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#7EA6E0;gradientColor=#7ea6e0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="325" width="120" height="45" as="geometry" />
+          <mxGeometry x="300" y="325" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R5hmWRW45EeVHVbpmFVQ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="R5hmWRW45EeVHVbpmFVQ-14" target="R5hmWRW45EeVHVbpmFVQ-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
