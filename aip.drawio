@@ -207,6 +207,12 @@
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-57" value="MySQL、Redis、Milvus" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1000" y="-790" width="537" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-58" value="模型广场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-59" value="模型训练" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-1260" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
