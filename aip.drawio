@@ -148,7 +148,7 @@
           <mxGeometry x="120" y="-790" width="500" height="250" as="geometry" />
         </mxCell>
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-35" value="CPU" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-730" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="-730" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-36" value="内存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="460" y="-730" width="120" height="60" as="geometry" />
