@@ -7,7 +7,7 @@
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-49" value="实例" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;fontSize=30;labelBorderColor=none;container=0;" vertex="1" parent="1">
           <mxGeometry x="183" y="-1092" width="800" height="275" as="geometry" />
         </mxCell>
-        <mxCell id="ZqEaL4qXER9mNjsGFA9_-50" value="模型管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-50" value="模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
           <mxGeometry x="184.5" y="-1304" width="235.5" height="200" as="geometry" />
         </mxCell>
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-56" value="K8S/Docker" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;container=0;" vertex="1" parent="1">
