@@ -145,7 +145,7 @@
           <mxGeometry x="340" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-34" value="硬件配置" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="135" y="-780" width="359" height="180" as="geometry" />
+          <mxGeometry x="135" y="-780" width="360" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-35" value="CPU" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="160" y="-730" width="90" height="45" as="geometry" />
