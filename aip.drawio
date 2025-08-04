@@ -141,6 +141,9 @@
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-32" value="API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-33" value="AGENT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
