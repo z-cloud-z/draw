@@ -117,7 +117,7 @@
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-21" value="CUDA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZqEaL4qXER9mNjsGFA9_-23" value="Python" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-23" value="&lt;span style=&quot;color: rgb(10, 22, 51); font-family: PingFangSC-Regular; text-align: left; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;PyTorch&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1380" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
