@@ -144,35 +144,41 @@
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-33" value="AGENT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZqEaL4qXER9mNjsGFA9_-34" value="硬件配置" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-47" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="135" y="-780" width="360" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="ZqEaL4qXER9mNjsGFA9_-35" value="CPU" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-730" width="90" height="45" as="geometry" />
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-34" value="硬件配置" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZqEaL4qXER9mNjsGFA9_-47">
+          <mxGeometry width="360" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="ZqEaL4qXER9mNjsGFA9_-36" value="内存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="385" y="-730" width="90" height="45" as="geometry" />
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-35" value="CPU" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="ZqEaL4qXER9mNjsGFA9_-47">
+          <mxGeometry x="25" y="50" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ZqEaL4qXER9mNjsGFA9_-37" value="磁盘" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-670" width="90" height="45" as="geometry" />
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-36" value="内存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="ZqEaL4qXER9mNjsGFA9_-47">
+          <mxGeometry x="250" y="50" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ZqEaL4qXER9mNjsGFA9_-38" value="GPU" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-730" width="90" height="45" as="geometry" />
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-37" value="磁盘" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="ZqEaL4qXER9mNjsGFA9_-47">
+          <mxGeometry x="25" y="110" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ZqEaL4qXER9mNjsGFA9_-39" value="网络" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-670" width="90" height="45" as="geometry" />
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-38" value="GPU" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="ZqEaL4qXER9mNjsGFA9_-47">
+          <mxGeometry x="135" y="50" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ZqEaL4qXER9mNjsGFA9_-41" value="镜像" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="755" y="-790" width="360" height="180" as="geometry" />
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-39" value="网络" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="ZqEaL4qXER9mNjsGFA9_-47">
+          <mxGeometry x="135" y="110" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ZqEaL4qXER9mNjsGFA9_-42" value="操作系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="780" y="-730" width="90" height="45" as="geometry" />
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-48" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="530" y="-780" width="360" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="ZqEaL4qXER9mNjsGFA9_-43" value="PyTorch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-730" width="90" height="45" as="geometry" />
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-41" value="镜像" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ZqEaL4qXER9mNjsGFA9_-48">
+          <mxGeometry width="360" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="ZqEaL4qXER9mNjsGFA9_-45" value="CUDA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="890" y="-730" width="90" height="45" as="geometry" />
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-42" value="操作系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="ZqEaL4qXER9mNjsGFA9_-48">
+          <mxGeometry x="25" y="60" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-43" value="PyTorch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="ZqEaL4qXER9mNjsGFA9_-48">
+          <mxGeometry x="245" y="60" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-45" value="CUDA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="ZqEaL4qXER9mNjsGFA9_-48">
+          <mxGeometry x="135" y="60" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
