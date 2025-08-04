@@ -163,7 +163,7 @@
           <mxGeometry x="270" y="-670" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-41" value="镜像" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="750" y="-790" width="500" height="250" as="geometry" />
+          <mxGeometry x="750" y="-790" width="360" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-42" value="操作系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="790" y="-730" width="120" height="60" as="geometry" />
