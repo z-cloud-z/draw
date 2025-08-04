@@ -133,7 +133,7 @@
           <mxGeometry x="707" y="-210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-30" value="知识库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="-200" width="120" height="60" as="geometry" />
+          <mxGeometry x="1070" y="-210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-31" value="数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="-210" width="120" height="60" as="geometry" />
