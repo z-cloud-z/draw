@@ -195,6 +195,12 @@
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-53" value="知识库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="-1320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-54" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-55" value="智能体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-1470" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
