@@ -79,7 +79,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-10" value="硬件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZqEaL4qXER9mNjsGFA9_-11" target="ZqEaL4qXER9mNjsGFA9_-5">
           <mxGeometry relative="1" as="geometry">
@@ -106,7 +106,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-11" value="镜像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="1160" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-18" value="网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="400" width="120" height="60" as="geometry" />
