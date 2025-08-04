@@ -122,10 +122,23 @@
           <mxGeometry x="310" y="-1244" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="ZqEaL4qXER9mNjsGFA9_-87" target="ZqEaL4qXER9mNjsGFA9_-88">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="-400" />
+              <mxPoint x="675" y="-400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZqEaL4qXER9mNjsGFA9_-87" target="ZqEaL4qXER9mNjsGFA9_-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="-400" />
+              <mxPoint x="1081" y="-400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-87" value="API" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="615" y="-470" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="-510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="ZqEaL4qXER9mNjsGFA9_-88" target="ZqEaL4qXER9mNjsGFA9_-90">
           <mxGeometry relative="1" as="geometry" />
