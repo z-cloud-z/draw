@@ -192,10 +192,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZqEaL4qXER9mNjsGFA9_-106" target="ZqEaL4qXER9mNjsGFA9_-87">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="235" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-106" value="智能体" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="-50" width="120" height="60" as="geometry" />
+          <mxGeometry x="1117" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZqEaL4qXER9mNjsGFA9_-107" target="ZqEaL4qXER9mNjsGFA9_-87">
           <mxGeometry relative="1" as="geometry" />
