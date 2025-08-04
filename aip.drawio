@@ -183,22 +183,22 @@
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-45" value="CUDA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="ZqEaL4qXER9mNjsGFA9_-48">
           <mxGeometry x="135" y="60" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ZqEaL4qXER9mNjsGFA9_-50" value="模型服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-50" value="模型服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="183" y="-1320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZqEaL4qXER9mNjsGFA9_-51" value="模型训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-51" value="模型训练" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="370" y="-1320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZqEaL4qXER9mNjsGFA9_-52" value="数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-52" value="数据集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="650" y="-1320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZqEaL4qXER9mNjsGFA9_-53" value="知识库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-53" value="知识库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="800" y="-1320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZqEaL4qXER9mNjsGFA9_-54" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-54" value="API" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="290" y="-1470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZqEaL4qXER9mNjsGFA9_-55" value="智能体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZqEaL4qXER9mNjsGFA9_-55" value="智能体" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="530" y="-1470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
