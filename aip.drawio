@@ -241,10 +241,31 @@
         <mxCell id="jbMN9TtVrL4l2bphJbt1-8" value="数字人" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="274" y="1510" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jbMN9TtVrL4l2bphJbt1-9" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-9" value="文小旅(智能体)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="231" y="700" width="528" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="jbMN9TtVrL4l2bphJbt1-17" value="开放API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-10" value="知识库" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="430" y="760" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-11" value="大模型" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="274" y="760" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-12" value="语音合成" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="595" y="760" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-13" value="用户画像" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="600" y="850" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-14" value="工具/MCP" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="274" y="850" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-15" value="插件" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="430" y="850" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-16" value="数字人" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="274" y="940" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="231" y="1150" width="529" height="60" as="geometry" />
         </mxCell>
       </root>
