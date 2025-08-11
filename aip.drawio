@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="llKYDILm5LgYf4LoqUcm-2" value="文小旅(智能体)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="231" y="1270" width="528" height="250" as="geometry" />
+          <mxGeometry x="231" y="1270" width="528" height="330" as="geometry" />
         </mxCell>
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-49" value="实例" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;fontSize=30;labelBorderColor=none;container=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="-798" width="800" height="275" as="geometry" />
@@ -237,6 +237,9 @@
         </mxCell>
         <mxCell id="llKYDILm5LgYf4LoqUcm-7" value="插件" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="430" y="1420" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-8" value="数字人" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="277" y="1510" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
