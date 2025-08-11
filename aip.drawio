@@ -515,10 +515,10 @@
           <mxGeometry x="102" y="2311" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="jbMN9TtVrL4l2bphJbt1-193" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;V1.0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="8" y="2430" width="200" height="250" as="geometry" />
+          <mxGeometry x="8" y="2360" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="jbMN9TtVrL4l2bphJbt1-195" value="1、对话问答；&#xa;2、复杂场景；&#xa;3、知识库；&#xa;4、语音合成、语音唤醒；&#xa;5、用户画像；" style="text;overflow=hidden;rounded=0;whiteSpace=wrap;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="29" y="2470" width="150" height="100" as="geometry" />
+          <mxGeometry x="29" y="2400" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jbMN9TtVrL4l2bphJbt1-198" value="2025-08-31" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="54" y="2281" width="112" height="30" as="geometry" />
