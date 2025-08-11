@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.0.9">
   <diagram name="第 1 页" id="XaoYMrmnhK-bOxz_jXeJ">
-    <mxGraphModel dx="2239" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2055" dy="1832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -399,8 +399,8 @@
         <mxCell id="jbMN9TtVrL4l2bphJbt1-87" value="用户画像" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="jbMN9TtVrL4l2bphJbt1-93">
           <mxGeometry x="209" y="110" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jbMN9TtVrL4l2bphJbt1-105" value="三方平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="870" y="1450" width="214" height="110" as="geometry" />
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-105" value="三方平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1450" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="jbMN9TtVrL4l2bphJbt1-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="llKYDILm5LgYf4LoqUcm-2" target="jbMN9TtVrL4l2bphJbt1-105">
           <mxGeometry relative="1" as="geometry" />
@@ -484,6 +484,12 @@
         </mxCell>
         <mxCell id="jbMN9TtVrL4l2bphJbt1-145" value="用户认证" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="jbMN9TtVrL4l2bphJbt1-146">
           <mxGeometry x="198.5" y="240" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-154" value="工具/MCP" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;container=0;" vertex="1" parent="1">
+          <mxGeometry x="902" y="1500" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-155" value="插件" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;container=0;" vertex="1" parent="1">
+          <mxGeometry x="991" y="1500" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
