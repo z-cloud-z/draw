@@ -387,7 +387,7 @@
         <mxCell id="llKYDILm5LgYf4LoqUcm-6" value="工具/MCP" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="jbMN9TtVrL4l2bphJbt1-76" vertex="1">
           <mxGeometry x="43" y="150" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="llKYDILm5LgYf4LoqUcm-7" value="插件" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="jbMN9TtVrL4l2bphJbt1-76" vertex="1">
+        <mxCell id="llKYDILm5LgYf4LoqUcm-7" value="插件(规范)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="jbMN9TtVrL4l2bphJbt1-76" vertex="1">
           <mxGeometry x="199" y="150" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jbMN9TtVrL4l2bphJbt1-8" value="数字人" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="jbMN9TtVrL4l2bphJbt1-76">
