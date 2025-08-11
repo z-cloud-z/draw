@@ -432,6 +432,11 @@
         <mxCell id="jbMN9TtVrL4l2bphJbt1-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="llKYDILm5LgYf4LoqUcm-2" target="jbMN9TtVrL4l2bphJbt1-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-135" value="API规范" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jbMN9TtVrL4l2bphJbt1-106">
+          <mxGeometry x="-0.2229" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jbMN9TtVrL4l2bphJbt1-123" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="80" y="1754" width="350" height="170" as="geometry" />
         </mxCell>
