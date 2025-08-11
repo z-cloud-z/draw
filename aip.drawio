@@ -229,7 +229,7 @@
         <mxCell id="llKYDILm5LgYf4LoqUcm-4" value="语音合成" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="595" y="1330" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="llKYDILm5LgYf4LoqUcm-5" value="语音合成" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="llKYDILm5LgYf4LoqUcm-5" value="用户画像" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="269" y="1420" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
