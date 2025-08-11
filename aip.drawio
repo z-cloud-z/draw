@@ -217,6 +217,9 @@
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.022;entryY=0.659;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ZqEaL4qXER9mNjsGFA9_-110" target="ZqEaL4qXER9mNjsGFA9_-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jbMN9TtVrL4l2bphJbt1-17" target="llKYDILm5LgYf4LoqUcm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jbMN9TtVrL4l2bphJbt1-17" value="开放API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="166" y="1160" width="529" height="60" as="geometry" />
         </mxCell>
@@ -364,7 +367,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jbMN9TtVrL4l2bphJbt1-76" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="163" y="1340" width="528" height="330" as="geometry" />
+          <mxGeometry x="167" y="1340" width="528" height="330" as="geometry" />
         </mxCell>
         <mxCell id="llKYDILm5LgYf4LoqUcm-2" value="文小旅(智能体)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;" parent="jbMN9TtVrL4l2bphJbt1-76" vertex="1">
           <mxGeometry width="528" height="330" as="geometry" />
