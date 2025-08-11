@@ -394,18 +394,18 @@
           <mxGeometry x="43" y="240" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jbMN9TtVrL4l2bphJbt1-78" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-360" y="1370" width="399" height="280" as="geometry" />
+          <mxGeometry x="-470" y="1365" width="399" height="280" as="geometry" />
         </mxCell>
         <mxCell id="jbMN9TtVrL4l2bphJbt1-79" value="运营管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="jbMN9TtVrL4l2bphJbt1-78">
           <mxGeometry width="399" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="jbMN9TtVrL4l2bphJbt1-80" value="酒店预订" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="jbMN9TtVrL4l2bphJbt1-78">
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-80" value="知识库" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="jbMN9TtVrL4l2bphJbt1-78">
           <mxGeometry x="119" y="60" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jbMN9TtVrL4l2bphJbt1-81" value="问答" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="jbMN9TtVrL4l2bphJbt1-78">
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-81" value="智能体" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="jbMN9TtVrL4l2bphJbt1-78">
           <mxGeometry x="29" y="60" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jbMN9TtVrL4l2bphJbt1-82" value="门票预订" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="jbMN9TtVrL4l2bphJbt1-78">
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-82" value="服务API" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="jbMN9TtVrL4l2bphJbt1-78">
           <mxGeometry x="209" y="60" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jbMN9TtVrL4l2bphJbt1-83" value="培训报名" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="jbMN9TtVrL4l2bphJbt1-78">
@@ -434,6 +434,9 @@
         </mxCell>
         <mxCell id="jbMN9TtVrL4l2bphJbt1-91" value="数字人" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="jbMN9TtVrL4l2bphJbt1-78">
           <mxGeometry x="29" y="220" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jbMN9TtVrL4l2bphJbt1-79" target="llKYDILm5LgYf4LoqUcm-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
