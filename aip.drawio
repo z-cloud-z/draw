@@ -526,7 +526,7 @@
         <mxCell id="jbMN9TtVrL4l2bphJbt1-199" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;V2.0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="260" y="2130" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="jbMN9TtVrL4l2bphJbt1-200" value="1、数字人；&#xa;2、" style="text;overflow=hidden;rounded=0;whiteSpace=wrap;fontSize=12;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-200" value="1、数字人；&#xa;2、多模态" style="text;overflow=hidden;rounded=0;whiteSpace=wrap;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="281" y="2170" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jbMN9TtVrL4l2bphJbt1-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="jbMN9TtVrL4l2bphJbt1-201" target="jbMN9TtVrL4l2bphJbt1-200">
