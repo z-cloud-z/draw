@@ -242,7 +242,7 @@
           <mxGeometry x="274" y="1510" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jbMN9TtVrL4l2bphJbt1-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="231" y="1150" width="529" height="60" as="geometry" />
+          <mxGeometry x="166" y="1160" width="529" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jbMN9TtVrL4l2bphJbt1-69" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-220" y="700" width="399" height="280" as="geometry" />
@@ -372,6 +372,20 @@
         </mxCell>
         <mxCell id="jbMN9TtVrL4l2bphJbt1-55" value="语音唤醒" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="jbMN9TtVrL4l2bphJbt1-71">
           <mxGeometry x="120.5" y="215" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jbMN9TtVrL4l2bphJbt1-9" target="jbMN9TtVrL4l2bphJbt1-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jbMN9TtVrL4l2bphJbt1-41" target="jbMN9TtVrL4l2bphJbt1-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="906" y="1080" />
+              <mxPoint x="563" y="1080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jbMN9TtVrL4l2bphJbt1-56" target="jbMN9TtVrL4l2bphJbt1-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
