@@ -518,7 +518,7 @@
           <mxGeometry x="8" y="2430" width="200" height="250" as="geometry" />
         </mxCell>
         <mxCell id="jbMN9TtVrL4l2bphJbt1-195" value="1、对话问答；&#xa;2、复杂场景；&#xa;3、知识库；&#xa;4、语音合成、语音唤醒；&#xa;5、用户画像；" style="text;overflow=hidden;rounded=0;whiteSpace=wrap;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="29" y="2470" width="150" height="200" as="geometry" />
+          <mxGeometry x="29" y="2470" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
