@@ -432,6 +432,33 @@
         <mxCell id="jbMN9TtVrL4l2bphJbt1-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="llKYDILm5LgYf4LoqUcm-2" target="jbMN9TtVrL4l2bphJbt1-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-107" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="1750" width="528" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-108" value="本地模型" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="jbMN9TtVrL4l2bphJbt1-107">
+          <mxGeometry width="528" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-109" value="语音" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="jbMN9TtVrL4l2bphJbt1-107">
+          <mxGeometry x="199" y="60" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-110" value="大模型" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="jbMN9TtVrL4l2bphJbt1-107">
+          <mxGeometry x="43" y="60" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-111" value="图片" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="jbMN9TtVrL4l2bphJbt1-107">
+          <mxGeometry x="364" y="60" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-112" value="用户画像" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="jbMN9TtVrL4l2bphJbt1-107">
+          <mxGeometry x="369" y="150" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-113" value="Embedding" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="jbMN9TtVrL4l2bphJbt1-107">
+          <mxGeometry x="43" y="150" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-114" value="插件" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="jbMN9TtVrL4l2bphJbt1-107">
+          <mxGeometry x="199" y="150" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-115" value="数字人" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="jbMN9TtVrL4l2bphJbt1-107">
+          <mxGeometry x="43" y="240" width="130" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
