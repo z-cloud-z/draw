@@ -506,7 +506,7 @@
         <mxCell id="jbMN9TtVrL4l2bphJbt1-128" value="文件系统" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;container=0;" vertex="1" parent="jbMN9TtVrL4l2bphJbt1-160">
           <mxGeometry x="239" y="60" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jbMN9TtVrL4l2bphJbt1-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jbMN9TtVrL4l2bphJbt1-162" target="jbMN9TtVrL4l2bphJbt1-179">
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" edge="1" parent="1" source="jbMN9TtVrL4l2bphJbt1-162" target="jbMN9TtVrL4l2bphJbt1-179">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jbMN9TtVrL4l2bphJbt1-162" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
