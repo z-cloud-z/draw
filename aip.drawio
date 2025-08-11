@@ -550,6 +550,9 @@
         <mxCell id="jbMN9TtVrL4l2bphJbt1-210" value="1、对话问答；&#xa;2、复杂场景；&#xa;3、知识库；&#xa;4、语音合成、语音唤醒；&#xa;5、用户画像；" style="text;overflow=hidden;rounded=0;whiteSpace=wrap;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="518" y="2400" width="150" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="jbMN9TtVrL4l2bphJbt1-212" value="2025-10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="537" y="2280" width="112" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
