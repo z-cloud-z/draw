@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="llKYDILm5LgYf4LoqUcm-2" value="文小旅" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="252" y="1280" width="528" height="180" as="geometry" />
+          <mxGeometry x="252" y="1280" width="528" height="320" as="geometry" />
         </mxCell>
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-49" value="实例" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;fontSize=30;labelBorderColor=none;container=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="-798" width="800" height="275" as="geometry" />
@@ -225,6 +225,12 @@
         </mxCell>
         <mxCell id="llKYDILm5LgYf4LoqUcm-3" value="大模型" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="420" y="1330" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llKYDILm5LgYf4LoqUcm-4" value="语音合成" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="595" y="1330" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llKYDILm5LgYf4LoqUcm-5" value="语音合成" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="269" y="1420" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
