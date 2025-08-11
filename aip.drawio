@@ -384,7 +384,7 @@
         <mxCell id="llKYDILm5LgYf4LoqUcm-5" value="用户画像" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="jbMN9TtVrL4l2bphJbt1-76" vertex="1">
           <mxGeometry x="369" y="150" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="llKYDILm5LgYf4LoqUcm-6" value="工具/MCP" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="jbMN9TtVrL4l2bphJbt1-76" vertex="1">
+        <mxCell id="llKYDILm5LgYf4LoqUcm-6" value="工具/MCP(规范)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="jbMN9TtVrL4l2bphJbt1-76" vertex="1">
           <mxGeometry x="43" y="150" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="llKYDILm5LgYf4LoqUcm-7" value="插件(规范)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="jbMN9TtVrL4l2bphJbt1-76" vertex="1">
