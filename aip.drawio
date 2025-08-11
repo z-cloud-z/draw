@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="llKYDILm5LgYf4LoqUcm-2" value="文小旅(智能体)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="230" y="1270" width="528" height="250" as="geometry" />
+          <mxGeometry x="231" y="1270" width="528" height="250" as="geometry" />
         </mxCell>
         <mxCell id="ZqEaL4qXER9mNjsGFA9_-49" value="实例" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;fontSize=30;labelBorderColor=none;container=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="-798" width="800" height="275" as="geometry" />
@@ -230,13 +230,13 @@
           <mxGeometry x="595" y="1330" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="llKYDILm5LgYf4LoqUcm-5" value="用户画像" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="931" y="1430" width="130" height="60" as="geometry" />
+          <mxGeometry x="600" y="1420" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="llKYDILm5LgYf4LoqUcm-6" value="工具/MCP" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="274" y="1420" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="llKYDILm5LgYf4LoqUcm-7" value="插件" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="595" y="1420" width="130" height="60" as="geometry" />
+          <mxGeometry x="430" y="1420" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
