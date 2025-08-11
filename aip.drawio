@@ -432,11 +432,8 @@
         <mxCell id="jbMN9TtVrL4l2bphJbt1-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="llKYDILm5LgYf4LoqUcm-2" target="jbMN9TtVrL4l2bphJbt1-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jbMN9TtVrL4l2bphJbt1-107" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="160" y="1750" width="528" height="330" as="geometry" />
-        </mxCell>
         <mxCell id="jbMN9TtVrL4l2bphJbt1-108" value="本地模型" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1750" width="528" height="330" as="geometry" />
+          <mxGeometry x="160" y="1750" width="350" height="330" as="geometry" />
         </mxCell>
         <mxCell id="jbMN9TtVrL4l2bphJbt1-109" value="语音" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
           <mxGeometry x="302" y="1810" width="70" height="30" as="geometry" />
@@ -455,9 +452,6 @@
         </mxCell>
         <mxCell id="jbMN9TtVrL4l2bphJbt1-114" value="数字人" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
           <mxGeometry x="302" y="1860" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jbMN9TtVrL4l2bphJbt1-115" value="数字人" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
-          <mxGeometry x="203" y="1990" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
