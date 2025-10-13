@@ -236,6 +236,19 @@
         <mxCell id="Df5o4tPQu_DberYT8AtO-6" value="文小旅" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Df5o4tPQu_DberYT8AtO-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Df5o4tPQu_DberYT8AtO-8" target="Df5o4tPQu_DberYT8AtO-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="1950" />
+              <mxPoint x="130" y="1810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Df5o4tPQu_DberYT8AtO-117" value="插件调用(卡片)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Df5o4tPQu_DberYT8AtO-116">
+          <mxGeometry x="0.0571" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Df5o4tPQu_DberYT8AtO-8" value="用户(PC/小程序)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1920" width="120" height="60" as="geometry" />
         </mxCell>
