@@ -244,7 +244,7 @@
         <mxCell id="Df5o4tPQu_DberYT8AtO-6" value="文小旅" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Df5o4tPQu_DberYT8AtO-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Df5o4tPQu_DberYT8AtO-8" target="Df5o4tPQu_DberYT8AtO-6">
+        <mxCell id="Df5o4tPQu_DberYT8AtO-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="Df5o4tPQu_DberYT8AtO-8" target="Df5o4tPQu_DberYT8AtO-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="130" y="1950" />
@@ -337,7 +337,7 @@
         <mxCell id="Df5o4tPQu_DberYT8AtO-94" value="工具消息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Df5o4tPQu_DberYT8AtO-102">
           <mxGeometry x="230" y="145" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Df5o4tPQu_DberYT8AtO-113" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" connectable="0" parent="1">
+        <mxCell id="Df5o4tPQu_DberYT8AtO-113" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="450" y="1720" width="760" height="338" as="geometry" />
         </mxCell>
         <mxCell id="Df5o4tPQu_DberYT8AtO-49" value="文小旅-处理流程" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;fontSize=14;container=0;" vertex="1" parent="Df5o4tPQu_DberYT8AtO-113">
@@ -393,7 +393,7 @@
         <mxCell id="Df5o4tPQu_DberYT8AtO-103" value="语音转化" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="Df5o4tPQu_DberYT8AtO-113">
           <mxGeometry x="420" y="58" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Df5o4tPQu_DberYT8AtO-104" value="流式输出" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="Df5o4tPQu_DberYT8AtO-113">
+        <mxCell id="Df5o4tPQu_DberYT8AtO-104" value="流式输出" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Df5o4tPQu_DberYT8AtO-113">
           <mxGeometry x="420" y="104" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Df5o4tPQu_DberYT8AtO-157" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Df5o4tPQu_DberYT8AtO-113" source="Df5o4tPQu_DberYT8AtO-107" target="Df5o4tPQu_DberYT8AtO-156">
