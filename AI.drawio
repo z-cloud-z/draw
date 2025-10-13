@@ -313,28 +313,25 @@
         <mxCell id="Df5o4tPQu_DberYT8AtO-94" value="工具消息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Df5o4tPQu_DberYT8AtO-102">
           <mxGeometry x="230" y="145" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Df5o4tPQu_DberYT8AtO-49" value="文小旅-处理流程" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;fontSize=14;container=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="2290" width="730" height="220" as="geometry" />
-        </mxCell>
         <mxCell id="Df5o4tPQu_DberYT8AtO-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Df5o4tPQu_DberYT8AtO-52" target="Df5o4tPQu_DberYT8AtO-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="600" y="1840" />
-              <mxPoint x="640" y="1840" />
-              <mxPoint x="640" y="1735" />
+              <mxPoint x="600" y="1898" />
+              <mxPoint x="640" y="1898" />
+              <mxPoint x="640" y="1793" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Df5o4tPQu_DberYT8AtO-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Df5o4tPQu_DberYT8AtO-52" target="Df5o4tPQu_DberYT8AtO-58">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="640" y="1840" />
-              <mxPoint x="640" y="1909" />
+              <mxPoint x="640" y="1898" />
+              <mxPoint x="640" y="1967" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Df5o4tPQu_DberYT8AtO-52" value="响应消息" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1810" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="1868" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Df5o4tPQu_DberYT8AtO-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Df5o4tPQu_DberYT8AtO-55" target="Df5o4tPQu_DberYT8AtO-104">
           <mxGeometry relative="1" as="geometry" />
@@ -346,34 +343,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Df5o4tPQu_DberYT8AtO-55" value="纯文本" style="whiteSpace=wrap;html=1;rounded=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1758" width="120" height="30" as="geometry" />
+          <mxGeometry x="680" y="1816" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Df5o4tPQu_DberYT8AtO-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Df5o4tPQu_DberYT8AtO-58" target="Df5o4tPQu_DberYT8AtO-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Df5o4tPQu_DberYT8AtO-58" value="工具" style="whiteSpace=wrap;html=1;rounded=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1894" width="120" height="30" as="geometry" />
+          <mxGeometry x="680" y="1952" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Df5o4tPQu_DberYT8AtO-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Df5o4tPQu_DberYT8AtO-64" target="Df5o4tPQu_DberYT8AtO-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Df5o4tPQu_DberYT8AtO-64" value="工具调用" style="whiteSpace=wrap;html=1;rounded=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1894" width="120" height="30" as="geometry" />
+          <mxGeometry x="850" y="1952" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Df5o4tPQu_DberYT8AtO-99" value="第三方接口调用" style="whiteSpace=wrap;html=1;rounded=1;container=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="1894" width="120" height="30" as="geometry" />
+          <mxGeometry x="1020" y="1952" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Df5o4tPQu_DberYT8AtO-103" value="语音转化" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="860" y="1712" width="120" height="30" as="geometry" />
+          <mxGeometry x="860" y="1770" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Df5o4tPQu_DberYT8AtO-104" value="流式输出" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="860" y="1758" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Df5o4tPQu_DberYT8AtO-105" value="插件调用" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="2070" width="120" height="30" as="geometry" />
+          <mxGeometry x="860" y="1816" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Df5o4tPQu_DberYT8AtO-107" value="插件调用" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="860" y="1808" width="120" height="30" as="geometry" />
+          <mxGeometry x="860" y="1866" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
