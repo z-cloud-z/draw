@@ -332,7 +332,7 @@
         <mxCell id="Df5o4tPQu_DberYT8AtO-94" value="工具消息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Df5o4tPQu_DberYT8AtO-102">
           <mxGeometry x="230" y="145" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Df5o4tPQu_DberYT8AtO-113" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Df5o4tPQu_DberYT8AtO-113" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="450" y="1720" width="760" height="338" as="geometry" />
         </mxCell>
         <mxCell id="Df5o4tPQu_DberYT8AtO-49" value="文小旅-处理流程" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;fontSize=14;container=0;" vertex="1" parent="Df5o4tPQu_DberYT8AtO-113">
@@ -391,8 +391,14 @@
         <mxCell id="Df5o4tPQu_DberYT8AtO-104" value="流式输出" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="Df5o4tPQu_DberYT8AtO-113">
           <mxGeometry x="420" y="104" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Df5o4tPQu_DberYT8AtO-157" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Df5o4tPQu_DberYT8AtO-113" source="Df5o4tPQu_DberYT8AtO-107" target="Df5o4tPQu_DberYT8AtO-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Df5o4tPQu_DberYT8AtO-107" value="插件调用" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="Df5o4tPQu_DberYT8AtO-113">
           <mxGeometry x="420" y="154" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Df5o4tPQu_DberYT8AtO-156" value="第三方接口调用" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Df5o4tPQu_DberYT8AtO-113">
+          <mxGeometry x="570" y="154" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Df5o4tPQu_DberYT8AtO-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Df5o4tPQu_DberYT8AtO-99" target="Df5o4tPQu_DberYT8AtO-2">
           <mxGeometry relative="1" as="geometry">
