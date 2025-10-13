@@ -206,7 +206,7 @@
         <mxCell id="Df5o4tPQu_DberYT8AtO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Df5o4tPQu_DberYT8AtO-1" target="Df5o4tPQu_DberYT8AtO-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Df5o4tPQu_DberYT8AtO-1" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Df5o4tPQu_DberYT8AtO-1" value="用户(PC/小程序)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Df5o4tPQu_DberYT8AtO-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Df5o4tPQu_DberYT8AtO-2" target="Df5o4tPQu_DberYT8AtO-4">
@@ -236,7 +236,7 @@
         <mxCell id="Df5o4tPQu_DberYT8AtO-6" value="文小旅" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Df5o4tPQu_DberYT8AtO-8" value="用户" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Df5o4tPQu_DberYT8AtO-8" value="用户(PC/小程序)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Df5o4tPQu_DberYT8AtO-102" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -377,6 +377,15 @@
         </mxCell>
         <mxCell id="Df5o4tPQu_DberYT8AtO-107" value="插件调用" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="Df5o4tPQu_DberYT8AtO-113">
           <mxGeometry x="420" y="154" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Df5o4tPQu_DberYT8AtO-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Df5o4tPQu_DberYT8AtO-99" target="Df5o4tPQu_DberYT8AtO-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1090" y="2120" />
+              <mxPoint x="20" y="2120" />
+              <mxPoint x="20" y="1530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
