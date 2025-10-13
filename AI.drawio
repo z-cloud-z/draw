@@ -400,6 +400,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Df5o4tPQu_DberYT8AtO-118" value="常用配置" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
