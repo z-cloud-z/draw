@@ -239,11 +239,11 @@
         <mxCell id="6dbSgpsrqsCvLWJ3hVLD-21" value="查询引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="960" y="1500" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6dbSgpsrqsCvLWJ3hVLD-22" value="图数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="830" y="1660" width="100" height="35" as="geometry" />
+        <mxCell id="6dbSgpsrqsCvLWJ3hVLD-22" value="智能搜索" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1670" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6dbSgpsrqsCvLWJ3hVLD-23" value="查询引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="970" y="1660" width="100" height="35" as="geometry" />
+        <mxCell id="6dbSgpsrqsCvLWJ3hVLD-23" value="图表展示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1670" width="100" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
