@@ -185,22 +185,22 @@
         <mxCell id="6dbSgpsrqsCvLWJ3hVLD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6dbSgpsrqsCvLWJ3hVLD-1" target="6dbSgpsrqsCvLWJ3hVLD-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6dbSgpsrqsCvLWJ3hVLD-1" value="模型定义" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="6dbSgpsrqsCvLWJ3hVLD-1" value="模型定义" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="750" y="945" width="350" height="115" as="geometry" />
         </mxCell>
         <mxCell id="6dbSgpsrqsCvLWJ3hVLD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6dbSgpsrqsCvLWJ3hVLD-4" target="6dbSgpsrqsCvLWJ3hVLD-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6dbSgpsrqsCvLWJ3hVLD-4" value="数据提取" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="6dbSgpsrqsCvLWJ3hVLD-4" value="数据提取" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="750" y="1270" width="350" height="115" as="geometry" />
         </mxCell>
         <mxCell id="6dbSgpsrqsCvLWJ3hVLD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6dbSgpsrqsCvLWJ3hVLD-6" target="6dbSgpsrqsCvLWJ3hVLD-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6dbSgpsrqsCvLWJ3hVLD-6" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="6dbSgpsrqsCvLWJ3hVLD-6" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="750" y="1550" width="350" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="6dbSgpsrqsCvLWJ3hVLD-8" value="可视化" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="6dbSgpsrqsCvLWJ3hVLD-8" value="可视化" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="750" y="1870" width="350" height="115" as="geometry" />
         </mxCell>
       </root>
